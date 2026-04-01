@@ -1,0 +1,61 @@
+2026-03-27 17:30:30,962 - INFO - 🚀 종합 인터랙션 테스트 시작: https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5
+2026-03-27 17:30:32,077 - INFO - 📊 데이터 캡처: https://api.mediacategory.com/rtb/redirectUrl
+2026-03-27 17:30:32,438 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/customer-center/API/noticeList1.do
+2026-03-27 17:30:32,522 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/product/product-link/ON_PD_KC_01
+2026-03-27 17:30:32,673 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/product/product-details/501615946
+2026-03-27 17:30:32,795 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/insuranceplan/insuranceplan-code/product-special-qualities
+2026-03-27 17:30:33,077 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/insuranceplan/insuranceplan-code/tooltip-messages
+2026-03-27 17:30:33,079 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/online-insurance/API/getOnNotice.do
+2026-03-27 17:30:33,079 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/application/psco/selectCommonCode.do
+2026-03-27 17:30:33,079 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/insuranceplan/product-mappings/316100104?corpTypeCode=3&
+2026-03-27 17:30:33,944 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=0&channel=1004&
+2026-03-27 17:30:34,031 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/application/psco/ess-step-info
+2026-03-27 17:30:34,266 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/application/appl/putDgtlCnttInfo.do
+2026-03-27 17:30:39,783 - INFO - 👤 나이/성별 설정: 25세 남성
+2026-03-27 17:30:42,849 - INFO - 👤 나이/성별 설정: 35세 여성
+2026-03-27 17:30:45,897 - INFO - 👤 나이/성별 설정: 45세 남성
+2026-03-27 17:30:48,939 - INFO - 👤 나이/성별 설정: 55세 여성
+2026-03-27 17:30:51,974 - INFO - ⚙️ 옵션 인터랙션 시작
+2026-03-27 17:30:51,989 - INFO - 🔘 버튼 클릭: 예상보험료 계산하기
+2026-03-27 17:30:52,300 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/online-insurance/API/getOnNotice.do
+2026-03-27 17:30:52,301 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/application/psco/selectCommonCode.do
+2026-03-27 17:30:52,307 - INFO - ⏳ '예상보험료 계산하기' 버튼 클릭 후 변화 확인 중...
+2026-03-27 17:30:58,330 - INFO - 🔘 버튼 클릭: 가입하기
+2026-03-27 17:31:28,364 - INFO - 🔘 버튼 클릭: 셀프 연금계산기
+2026-03-27 17:31:58,402 - INFO - 📝 폼 필드 탐색
+2026-03-27 17:32:28,669 - INFO - 💾 결과 저장: kb_interactive_results_KB_착한암보험_20260327_173228.json
+2026-03-27 17:32:28,669 - ERROR - 전체 테스트 실행 중 오류: 'cp949' codec can't encode character '\U0001f4ca' in position 2: illegal multibyte sequence
+2026-03-28 02:54:14,142 - INFO - 🚀 종합 인터랙션 테스트 시작: https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5
+2026-03-28 02:54:15,164 - INFO - 📊 데이터 캡처: https://api.mediacategory.com/rtb/redirectUrl
+2026-03-28 02:54:15,863 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/customer-center/API/noticeList1.do
+2026-03-28 02:54:15,955 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/product/product-link/ON_PD_KC_01
+2026-03-28 02:54:16,081 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/product/product-details/501615946
+2026-03-28 02:54:16,207 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/insuranceplan/insuranceplan-code/product-special-qualities
+2026-03-28 02:54:16,527 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/insuranceplan/insuranceplan-code/tooltip-messages
+2026-03-28 02:54:16,533 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/online-insurance/API/getOnNotice.do
+2026-03-28 02:54:16,534 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/application/psco/selectCommonCode.do
+2026-03-28 02:54:16,534 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/insuranceplan/product-mappings/316100104?corpTypeCode=3&
+2026-03-28 02:54:17,495 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=0&channel=1004&
+2026-03-28 02:54:17,496 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/application/psco/ess-step-info
+2026-03-28 02:54:17,715 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/application/appl/putDgtlCnttInfo.do
+2026-03-28 02:54:23,225 - INFO - 👤 나이/성별 설정: 25세 남성
+2026-03-28 02:54:26,306 - INFO - 👤 나이/성별 설정: 35세 여성
+2026-03-28 02:54:29,362 - INFO - 👤 나이/성별 설정: 45세 남성
+2026-03-28 02:54:32,495 - INFO - 👤 나이/성별 설정: 55세 여성
+2026-03-28 02:54:35,609 - INFO - ⚙️ 옵션 인터랙션 시작
+2026-03-28 02:54:35,674 - INFO - 🔘 버튼 클릭: 예상보험료 계산하기
+2026-03-28 02:54:36,041 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/online-insurance/API/getOnNotice.do
+2026-03-28 02:54:36,042 - INFO - 📊 데이터 캡처: https://www.kblife.co.kr/api/application/psco/selectCommonCode.do
+2026-03-28 02:54:36,047 - INFO - ⏳ '예상보험료 계산하기' 버튼 클릭 후 변화 확인 중...
+2026-03-28 02:54:43,167 - INFO - 🔘 버튼 클릭: 가입하기
+2026-03-28 02:55:13,233 - INFO - 🔘 버튼 클릭: 셀프 연금계산기
+2026-03-28 02:55:43,312 - INFO - 📝 폼 필드 탐색
+2026-03-28 23:19:20,024 - INFO - 🚀 종합 인터랙션 테스트 시작: https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5
+2026-03-28 23:19:25,628 - INFO - 👤 나이/성별 설정: 25세 남성
+2026-03-28 23:19:28,678 - INFO - 👤 나이/성별 설정: 35세 여성
+2026-03-28 23:19:31,709 - INFO - 👤 나이/성별 설정: 45세 남성
+2026-03-28 23:19:34,752 - INFO - 👤 나이/성별 설정: 55세 여성
+2026-03-28 23:19:37,774 - INFO - ⚙️ 옵션 인터랙션 시작
+2026-03-28 23:19:37,799 - INFO - 📝 폼 필드 탐색
+2026-03-28 23:19:37,811 - INFO - 💾 결과 저장: kb_interactive_results_KB_착한암보험_20260328_231937.json
+2026-03-28 23:19:37,811 - ERROR - 전체 테스트 실행 중 오류: 'cp949' codec can't encode character '\U0001f4ca' in position 2: illegal multibyte sequence

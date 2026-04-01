@@ -1,0 +1,335 @@
+2026-03-27 17:19:20,686 - INFO - 보험료 데이터 수집 시작: KB 착한암보험 무배당
+2026-03-27 17:19:20,687 - INFO - API 호출: 19세 남성
+2026-03-27 17:19:21,177 - INFO - ✅ 보험료 수집 성공: 19세 남성
+2026-03-27 17:19:21,679 - INFO - API 호출: 19세 여성
+2026-03-27 17:19:22,111 - INFO - ✅ 보험료 수집 성공: 19세 여성
+2026-03-27 17:19:22,616 - INFO - API 호출: 20세 남성
+2026-03-27 17:19:23,024 - INFO - ✅ 보험료 수집 성공: 20세 남성
+2026-03-27 17:19:23,525 - INFO - API 호출: 20세 여성
+2026-03-27 17:19:23,906 - INFO - ✅ 보험료 수집 성공: 20세 여성
+2026-03-27 17:19:24,407 - INFO - API 호출: 21세 남성
+2026-03-27 17:19:24,803 - INFO - ✅ 보험료 수집 성공: 21세 남성
+2026-03-27 17:19:25,303 - INFO - API 호출: 21세 여성
+2026-03-27 17:19:25,698 - INFO - ✅ 보험료 수집 성공: 21세 여성
+2026-03-27 17:19:26,199 - INFO - API 호출: 22세 남성
+2026-03-27 17:19:26,707 - INFO - ✅ 보험료 수집 성공: 22세 남성
+2026-03-27 17:19:27,212 - INFO - API 호출: 22세 여성
+2026-03-27 17:19:27,601 - INFO - ✅ 보험료 수집 성공: 22세 여성
+2026-03-27 17:19:28,101 - INFO - API 호출: 23세 남성
+2026-03-27 17:19:28,476 - INFO - ✅ 보험료 수집 성공: 23세 남성
+2026-03-27 17:19:28,986 - INFO - API 호출: 23세 여성
+2026-03-27 17:19:29,405 - INFO - ✅ 보험료 수집 성공: 23세 여성
+2026-03-27 17:19:29,907 - INFO - API 호출: 24세 남성
+2026-03-27 17:19:30,292 - INFO - ✅ 보험료 수집 성공: 24세 남성
+2026-03-27 17:19:30,796 - INFO - API 호출: 24세 여성
+2026-03-27 17:19:31,164 - INFO - ✅ 보험료 수집 성공: 24세 여성
+2026-03-27 17:19:31,671 - INFO - API 호출: 25세 남성
+2026-03-27 17:19:32,045 - INFO - ✅ 보험료 수집 성공: 25세 남성
+2026-03-27 17:19:32,553 - INFO - API 호출: 25세 여성
+2026-03-27 17:19:32,933 - INFO - ✅ 보험료 수집 성공: 25세 여성
+2026-03-27 17:19:33,435 - INFO - API 호출: 26세 남성
+2026-03-27 17:19:33,835 - INFO - ✅ 보험료 수집 성공: 26세 남성
+2026-03-27 17:19:34,337 - INFO - API 호출: 26세 여성
+2026-03-27 17:19:34,721 - INFO - ✅ 보험료 수집 성공: 26세 여성
+2026-03-27 17:19:35,227 - INFO - API 호출: 27세 남성
+2026-03-27 17:19:35,624 - INFO - ✅ 보험료 수집 성공: 27세 남성
+2026-03-27 17:19:36,129 - INFO - API 호출: 27세 여성
+2026-03-27 17:19:36,511 - INFO - ✅ 보험료 수집 성공: 27세 여성
+2026-03-27 17:19:37,012 - INFO - API 호출: 28세 남성
+2026-03-27 17:19:37,388 - INFO - ✅ 보험료 수집 성공: 28세 남성
+2026-03-27 17:19:37,893 - INFO - API 호출: 28세 여성
+2026-03-27 17:19:38,285 - INFO - ✅ 보험료 수집 성공: 28세 여성
+2026-03-27 17:19:38,788 - INFO - API 호출: 29세 남성
+2026-03-27 17:19:39,201 - INFO - ✅ 보험료 수집 성공: 29세 남성
+2026-03-27 17:19:39,705 - INFO - API 호출: 29세 여성
+2026-03-27 17:19:40,084 - INFO - ✅ 보험료 수집 성공: 29세 여성
+2026-03-27 17:19:40,587 - INFO - API 호출: 30세 남성
+2026-03-27 17:19:40,969 - INFO - ✅ 보험료 수집 성공: 30세 남성
+2026-03-27 17:19:41,476 - INFO - API 호출: 30세 여성
+2026-03-27 17:19:41,865 - INFO - ✅ 보험료 수집 성공: 30세 여성
+2026-03-27 17:19:42,372 - INFO - API 호출: 31세 남성
+2026-03-27 17:19:42,744 - INFO - ✅ 보험료 수집 성공: 31세 남성
+2026-03-27 17:19:43,247 - INFO - API 호출: 31세 여성
+2026-03-27 17:19:43,620 - INFO - ✅ 보험료 수집 성공: 31세 여성
+2026-03-27 17:19:44,122 - INFO - API 호출: 32세 남성
+2026-03-27 17:19:44,499 - INFO - ✅ 보험료 수집 성공: 32세 남성
+2026-03-27 17:19:45,011 - INFO - API 호출: 32세 여성
+2026-03-27 17:19:45,387 - INFO - ✅ 보험료 수집 성공: 32세 여성
+2026-03-27 17:19:45,893 - INFO - API 호출: 33세 남성
+2026-03-27 17:19:46,293 - INFO - ✅ 보험료 수집 성공: 33세 남성
+2026-03-27 17:19:46,795 - INFO - API 호출: 33세 여성
+2026-03-27 17:19:47,172 - INFO - ✅ 보험료 수집 성공: 33세 여성
+2026-03-27 17:19:47,677 - INFO - API 호출: 34세 남성
+2026-03-27 17:19:48,085 - INFO - ✅ 보험료 수집 성공: 34세 남성
+2026-03-27 17:19:48,587 - INFO - API 호출: 34세 여성
+2026-03-27 17:19:48,995 - INFO - ✅ 보험료 수집 성공: 34세 여성
+2026-03-27 17:19:49,497 - INFO - API 호출: 35세 남성
+2026-03-27 17:19:49,923 - INFO - ✅ 보험료 수집 성공: 35세 남성
+2026-03-27 17:19:50,427 - INFO - API 호출: 35세 여성
+2026-03-27 17:19:50,834 - INFO - ✅ 보험료 수집 성공: 35세 여성
+2026-03-27 17:19:51,337 - INFO - API 호출: 36세 남성
+2026-03-27 17:19:51,717 - INFO - ✅ 보험료 수집 성공: 36세 남성
+2026-03-27 17:19:52,219 - INFO - API 호출: 36세 여성
+2026-03-27 17:19:52,654 - INFO - ✅ 보험료 수집 성공: 36세 여성
+2026-03-27 17:19:53,159 - INFO - API 호출: 37세 남성
+2026-03-27 17:19:53,555 - INFO - ✅ 보험료 수집 성공: 37세 남성
+2026-03-27 17:19:54,059 - INFO - API 호출: 37세 여성
+2026-03-27 17:19:54,449 - INFO - ✅ 보험료 수집 성공: 37세 여성
+2026-03-27 17:19:54,955 - INFO - API 호출: 38세 남성
+2026-03-27 17:19:55,363 - INFO - ✅ 보험료 수집 성공: 38세 남성
+2026-03-27 17:19:55,864 - INFO - API 호출: 38세 여성
+2026-03-27 17:19:56,247 - INFO - ✅ 보험료 수집 성공: 38세 여성
+2026-03-27 17:19:56,749 - INFO - API 호출: 39세 남성
+2026-03-27 17:19:57,152 - INFO - ✅ 보험료 수집 성공: 39세 남성
+2026-03-27 17:19:57,656 - INFO - API 호출: 39세 여성
+2026-03-27 17:19:58,029 - INFO - ✅ 보험료 수집 성공: 39세 여성
+2026-03-27 17:19:58,531 - INFO - API 호출: 40세 남성
+2026-03-27 17:19:58,972 - INFO - ✅ 보험료 수집 성공: 40세 남성
+2026-03-27 17:19:59,475 - INFO - API 호출: 40세 여성
+2026-03-27 17:19:59,856 - INFO - ✅ 보험료 수집 성공: 40세 여성
+2026-03-27 17:20:00,358 - INFO - API 호출: 41세 남성
+2026-03-27 17:20:00,791 - INFO - ✅ 보험료 수집 성공: 41세 남성
+2026-03-27 17:20:01,295 - INFO - API 호출: 41세 여성
+2026-03-27 17:20:01,712 - INFO - ✅ 보험료 수집 성공: 41세 여성
+2026-03-27 17:20:02,218 - INFO - API 호출: 42세 남성
+2026-03-27 17:20:02,660 - INFO - ✅ 보험료 수집 성공: 42세 남성
+2026-03-27 17:20:03,163 - INFO - API 호출: 42세 여성
+2026-03-27 17:20:03,550 - INFO - ✅ 보험료 수집 성공: 42세 여성
+2026-03-27 17:20:04,053 - INFO - API 호출: 43세 남성
+2026-03-27 17:20:04,472 - INFO - ✅ 보험료 수집 성공: 43세 남성
+2026-03-27 17:20:04,976 - INFO - API 호출: 43세 여성
+2026-03-27 17:20:05,379 - INFO - ✅ 보험료 수집 성공: 43세 여성
+2026-03-27 17:20:05,885 - INFO - API 호출: 44세 남성
+2026-03-27 17:20:06,310 - INFO - ✅ 보험료 수집 성공: 44세 남성
+2026-03-27 17:20:06,816 - INFO - API 호출: 44세 여성
+2026-03-27 17:20:07,208 - INFO - ✅ 보험료 수집 성공: 44세 여성
+2026-03-27 17:20:07,712 - INFO - API 호출: 45세 남성
+2026-03-27 17:20:08,122 - INFO - ✅ 보험료 수집 성공: 45세 남성
+2026-03-27 17:20:08,628 - INFO - API 호출: 45세 여성
+2026-03-27 17:20:09,029 - INFO - ✅ 보험료 수집 성공: 45세 여성
+2026-03-27 17:20:09,531 - INFO - API 호출: 46세 남성
+2026-03-27 17:20:09,932 - INFO - ✅ 보험료 수집 성공: 46세 남성
+2026-03-27 17:20:10,433 - INFO - API 호출: 46세 여성
+2026-03-27 17:20:10,806 - INFO - ✅ 보험료 수집 성공: 46세 여성
+2026-03-27 17:20:11,308 - INFO - API 호출: 47세 남성
+2026-03-27 17:20:11,694 - INFO - ✅ 보험료 수집 성공: 47세 남성
+2026-03-27 17:20:12,198 - INFO - API 호출: 47세 여성
+2026-03-27 17:20:12,620 - INFO - ✅ 보험료 수집 성공: 47세 여성
+2026-03-27 17:20:13,121 - INFO - API 호출: 48세 남성
+2026-03-27 17:20:13,497 - INFO - ✅ 보험료 수집 성공: 48세 남성
+2026-03-27 17:20:13,998 - INFO - API 호출: 48세 여성
+2026-03-27 17:20:14,399 - INFO - ✅ 보험료 수집 성공: 48세 여성
+2026-03-27 17:20:14,899 - INFO - API 호출: 49세 남성
+2026-03-27 17:20:15,348 - INFO - ✅ 보험료 수집 성공: 49세 남성
+2026-03-27 17:20:15,850 - INFO - API 호출: 49세 여성
+2026-03-27 17:20:16,232 - INFO - ✅ 보험료 수집 성공: 49세 여성
+2026-03-27 17:20:16,733 - INFO - API 호출: 50세 남성
+2026-03-27 17:20:17,155 - INFO - ✅ 보험료 수집 성공: 50세 남성
+2026-03-27 17:20:17,656 - INFO - API 호출: 50세 여성
+2026-03-27 17:20:18,079 - INFO - ✅ 보험료 수집 성공: 50세 여성
+2026-03-27 17:20:18,581 - INFO - API 호출: 51세 남성
+2026-03-27 17:20:18,997 - INFO - ✅ 보험료 수집 성공: 51세 남성
+2026-03-27 17:20:19,502 - INFO - API 호출: 51세 여성
+2026-03-27 17:20:19,909 - INFO - ✅ 보험료 수집 성공: 51세 여성
+2026-03-27 17:20:20,412 - INFO - API 호출: 52세 남성
+2026-03-27 17:20:20,781 - INFO - ✅ 보험료 수집 성공: 52세 남성
+2026-03-27 17:20:21,289 - INFO - API 호출: 52세 여성
+2026-03-27 17:20:21,665 - INFO - ✅ 보험료 수집 성공: 52세 여성
+2026-03-27 17:20:22,170 - INFO - API 호출: 53세 남성
+2026-03-27 17:20:22,539 - INFO - ✅ 보험료 수집 성공: 53세 남성
+2026-03-27 17:20:23,044 - INFO - API 호출: 53세 여성
+2026-03-27 17:20:23,440 - INFO - ✅ 보험료 수집 성공: 53세 여성
+2026-03-27 17:20:23,946 - INFO - API 호출: 54세 남성
+2026-03-27 17:20:24,359 - INFO - ✅ 보험료 수집 성공: 54세 남성
+2026-03-27 17:20:24,864 - INFO - API 호출: 54세 여성
+2026-03-27 17:20:25,243 - INFO - ✅ 보험료 수집 성공: 54세 여성
+2026-03-27 17:20:25,748 - INFO - API 호출: 55세 남성
+2026-03-27 17:20:26,142 - INFO - ✅ 보험료 수집 성공: 55세 남성
+2026-03-27 17:20:26,648 - INFO - API 호출: 55세 여성
+2026-03-27 17:20:27,025 - INFO - ✅ 보험료 수집 성공: 55세 여성
+2026-03-27 17:20:27,530 - INFO - API 호출: 56세 남성
+2026-03-27 17:20:27,905 - INFO - ✅ 보험료 수집 성공: 56세 남성
+2026-03-27 17:20:28,406 - INFO - API 호출: 56세 여성
+2026-03-27 17:20:28,814 - INFO - ✅ 보험료 수집 성공: 56세 여성
+2026-03-27 17:20:29,315 - INFO - API 호출: 57세 남성
+2026-03-27 17:20:29,704 - INFO - ✅ 보험료 수집 성공: 57세 남성
+2026-03-27 17:20:30,211 - INFO - API 호출: 57세 여성
+2026-03-27 17:20:30,579 - INFO - ✅ 보험료 수집 성공: 57세 여성
+2026-03-27 17:20:31,080 - INFO - API 호출: 58세 남성
+2026-03-27 17:20:31,482 - INFO - ✅ 보험료 수집 성공: 58세 남성
+2026-03-27 17:20:31,982 - INFO - API 호출: 58세 여성
+2026-03-27 17:20:32,398 - INFO - ✅ 보험료 수집 성공: 58세 여성
+2026-03-27 17:20:32,912 - INFO - API 호출: 59세 남성
+2026-03-27 17:20:33,306 - INFO - ✅ 보험료 수집 성공: 59세 남성
+2026-03-27 17:20:33,810 - INFO - API 호출: 59세 여성
+2026-03-27 17:20:34,216 - INFO - ✅ 보험료 수집 성공: 59세 여성
+2026-03-27 17:20:34,717 - INFO - API 호출: 60세 남성
+2026-03-27 17:20:35,147 - INFO - ✅ 보험료 수집 성공: 60세 남성
+2026-03-27 17:20:35,657 - INFO - API 호출: 60세 여성
+2026-03-27 17:20:36,062 - INFO - ✅ 보험료 수집 성공: 60세 여성
+2026-03-27 17:20:36,574 - INFO - API 호출: 61세 남성
+2026-03-27 17:20:36,951 - INFO - ✅ 보험료 수집 성공: 61세 남성
+2026-03-27 17:20:37,460 - INFO - API 호출: 61세 여성
+2026-03-27 17:20:37,860 - INFO - ✅ 보험료 수집 성공: 61세 여성
+2026-03-27 17:20:38,362 - INFO - API 호출: 62세 남성
+2026-03-27 17:20:38,714 - INFO - ✅ 보험료 수집 성공: 62세 남성
+2026-03-27 17:20:39,221 - INFO - API 호출: 62세 여성
+2026-03-27 17:20:39,583 - INFO - ✅ 보험료 수집 성공: 62세 여성
+2026-03-27 17:20:40,093 - INFO - API 호출: 63세 남성
+2026-03-27 17:20:40,450 - INFO - ✅ 보험료 수집 성공: 63세 남성
+2026-03-27 17:20:40,961 - INFO - API 호출: 63세 여성
+2026-03-27 17:20:41,374 - INFO - ✅ 보험료 수집 성공: 63세 여성
+2026-03-27 17:20:41,877 - INFO - API 호출: 64세 남성
+2026-03-27 17:20:42,270 - INFO - ✅ 보험료 수집 성공: 64세 남성
+2026-03-27 17:20:42,780 - INFO - API 호출: 64세 여성
+2026-03-27 17:20:43,238 - INFO - ✅ 보험료 수집 성공: 64세 여성
+2026-03-27 17:20:43,747 - INFO - API 호출: 65세 남성
+2026-03-27 17:20:44,147 - INFO - ✅ 보험료 수집 성공: 65세 남성
+2026-03-27 17:20:44,652 - INFO - API 호출: 65세 여성
+2026-03-27 17:20:45,060 - INFO - ✅ 보험료 수집 성공: 65세 여성
+2026-03-27 17:20:45,574 - INFO - 수집 완료: 94/94 개
+2026-03-27 17:20:45,581 - INFO - 결과 저장: kb_premium_direct_316100104_20260327_172045.json
+2026-03-27 17:20:45,581 - ERROR - 실행 중 오류: 'cp949' codec can't encode character '\U0001f4ca' in position 2: illegal multibyte sequence
+2026-03-28 23:19:31,327 - INFO - 보험료 데이터 수집 시작: KB 착한암보험 무배당
+2026-03-28 23:19:31,327 - INFO - API 호출: 19세 남성
+2026-03-28 23:19:31,385 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=19&channel=1004'
+2026-03-28 23:19:31,896 - INFO - API 호출: 19세 여성
+2026-03-28 23:19:31,939 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=19&channel=1004'
+2026-03-28 23:19:32,443 - INFO - API 호출: 20세 남성
+2026-03-28 23:19:32,488 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=20&channel=1004'
+2026-03-28 23:19:33,002 - INFO - API 호출: 20세 여성
+2026-03-28 23:19:33,050 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=20&channel=1004'
+2026-03-28 23:19:33,564 - INFO - API 호출: 21세 남성
+2026-03-28 23:19:33,624 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=21&channel=1004'
+2026-03-28 23:19:34,126 - INFO - API 호출: 21세 여성
+2026-03-28 23:19:34,186 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=21&channel=1004'
+2026-03-28 23:19:34,690 - INFO - API 호출: 22세 남성
+2026-03-28 23:19:34,739 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=22&channel=1004'
+2026-03-28 23:19:35,249 - INFO - API 호출: 22세 여성
+2026-03-28 23:19:35,296 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=22&channel=1004'
+2026-03-28 23:19:35,810 - INFO - API 호출: 23세 남성
+2026-03-28 23:19:35,855 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=23&channel=1004'
+2026-03-28 23:19:36,370 - INFO - API 호출: 23세 여성
+2026-03-28 23:19:36,414 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=23&channel=1004'
+2026-03-28 23:19:36,914 - INFO - API 호출: 24세 남성
+2026-03-28 23:19:36,961 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=24&channel=1004'
+2026-03-28 23:19:37,475 - INFO - API 호출: 24세 여성
+2026-03-28 23:19:37,522 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=24&channel=1004'
+2026-03-28 23:19:38,024 - INFO - API 호출: 25세 남성
+2026-03-28 23:19:38,068 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=25&channel=1004'
+2026-03-28 23:19:38,574 - INFO - API 호출: 25세 여성
+2026-03-28 23:19:38,618 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=25&channel=1004'
+2026-03-28 23:19:39,119 - INFO - API 호출: 26세 남성
+2026-03-28 23:19:39,168 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=26&channel=1004'
+2026-03-28 23:19:39,681 - INFO - API 호출: 26세 여성
+2026-03-28 23:19:39,726 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=26&channel=1004'
+2026-03-28 23:19:40,239 - INFO - API 호출: 27세 남성
+2026-03-28 23:19:40,288 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=27&channel=1004'
+2026-03-28 23:19:40,799 - INFO - API 호출: 27세 여성
+2026-03-28 23:19:40,851 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=27&channel=1004'
+2026-03-28 23:19:41,363 - INFO - API 호출: 28세 남성
+2026-03-28 23:19:41,410 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=28&channel=1004'
+2026-03-28 23:19:41,923 - INFO - API 호출: 28세 여성
+2026-03-28 23:19:41,966 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=28&channel=1004'
+2026-03-28 23:19:42,482 - INFO - API 호출: 29세 남성
+2026-03-28 23:19:42,529 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=29&channel=1004'
+2026-03-28 23:19:43,044 - INFO - API 호출: 29세 여성
+2026-03-28 23:19:43,091 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=29&channel=1004'
+2026-03-28 23:19:43,605 - INFO - API 호출: 30세 남성
+2026-03-28 23:19:43,652 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=30&channel=1004'
+2026-03-28 23:19:44,154 - INFO - API 호출: 30세 여성
+2026-03-28 23:19:44,201 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=30&channel=1004'
+2026-03-28 23:19:44,712 - INFO - API 호출: 31세 남성
+2026-03-28 23:19:44,756 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=31&channel=1004'
+2026-03-28 23:19:45,259 - INFO - API 호출: 31세 여성
+2026-03-28 23:19:45,305 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=31&channel=1004'
+2026-03-28 23:19:45,819 - INFO - API 호출: 32세 남성
+2026-03-28 23:19:45,866 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=32&channel=1004'
+2026-03-28 23:19:46,376 - INFO - API 호출: 32세 여성
+2026-03-28 23:19:46,421 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=32&channel=1004'
+2026-03-28 23:19:46,925 - INFO - API 호출: 33세 남성
+2026-03-28 23:19:46,970 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=33&channel=1004'
+2026-03-28 23:19:47,475 - INFO - API 호출: 33세 여성
+2026-03-28 23:19:47,522 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=33&channel=1004'
+2026-03-28 23:19:48,030 - INFO - API 호출: 34세 남성
+2026-03-28 23:19:48,078 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=34&channel=1004'
+2026-03-28 23:19:48,579 - INFO - API 호출: 34세 여성
+2026-03-28 23:19:48,626 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=34&channel=1004'
+2026-03-28 23:19:49,135 - INFO - API 호출: 35세 남성
+2026-03-28 23:19:49,180 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=35&channel=1004'
+2026-03-28 23:19:49,686 - INFO - API 호출: 35세 여성
+2026-03-28 23:19:49,731 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=35&channel=1004'
+2026-03-28 23:19:50,232 - INFO - API 호출: 36세 남성
+2026-03-28 23:19:50,280 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=36&channel=1004'
+2026-03-28 23:19:50,794 - INFO - API 호출: 36세 여성
+2026-03-28 23:19:50,838 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=36&channel=1004'
+2026-03-28 23:19:51,343 - INFO - API 호출: 37세 남성
+2026-03-28 23:19:51,387 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=37&channel=1004'
+2026-03-28 23:19:51,892 - INFO - API 호출: 37세 여성
+2026-03-28 23:19:51,938 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=37&channel=1004'
+2026-03-28 23:19:52,452 - INFO - API 호출: 38세 남성
+2026-03-28 23:19:52,501 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=38&channel=1004'
+2026-03-28 23:19:53,014 - INFO - API 호출: 38세 여성
+2026-03-28 23:19:53,063 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=38&channel=1004'
+2026-03-28 23:19:53,576 - INFO - API 호출: 39세 남성
+2026-03-28 23:19:53,621 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=39&channel=1004'
+2026-03-28 23:19:54,123 - INFO - API 호출: 39세 여성
+2026-03-28 23:19:54,181 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=39&channel=1004'
+2026-03-28 23:19:54,685 - INFO - API 호출: 40세 남성
+2026-03-28 23:19:54,731 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=40&channel=1004'
+2026-03-28 23:19:55,244 - INFO - API 호출: 40세 여성
+2026-03-28 23:19:55,294 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=40&channel=1004'
+2026-03-28 23:19:55,808 - INFO - API 호출: 41세 남성
+2026-03-28 23:19:55,854 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=41&channel=1004'
+2026-03-28 23:19:56,366 - INFO - API 호출: 41세 여성
+2026-03-28 23:19:56,407 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=41&channel=1004'
+2026-03-28 23:19:56,916 - INFO - API 호출: 42세 남성
+2026-03-28 23:19:56,963 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=42&channel=1004'
+2026-03-28 23:19:57,473 - INFO - API 호출: 42세 여성
+2026-03-28 23:19:57,518 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=42&channel=1004'
+2026-03-28 23:19:58,034 - INFO - API 호출: 43세 남성
+2026-03-28 23:19:58,081 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=43&channel=1004'
+2026-03-28 23:19:58,596 - INFO - API 호출: 43세 여성
+2026-03-28 23:19:58,641 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=43&channel=1004'
+2026-03-28 23:19:59,153 - INFO - API 호출: 44세 남성
+2026-03-28 23:19:59,199 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=44&channel=1004'
+2026-03-28 23:19:59,700 - INFO - API 호출: 44세 여성
+2026-03-28 23:19:59,746 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=44&channel=1004'
+2026-03-28 23:20:00,246 - INFO - API 호출: 45세 남성
+2026-03-28 23:20:00,295 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=45&channel=1004'
+2026-03-28 23:20:00,807 - INFO - API 호출: 45세 여성
+2026-03-28 23:20:00,853 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=45&channel=1004'
+2026-03-28 23:20:01,365 - INFO - API 호출: 46세 남성
+2026-03-28 23:20:01,413 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=46&channel=1004'
+2026-03-28 23:20:01,926 - INFO - API 호출: 46세 여성
+2026-03-28 23:20:01,973 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=46&channel=1004'
+2026-03-28 23:20:02,483 - INFO - API 호출: 47세 남성
+2026-03-28 23:20:02,530 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=47&channel=1004'
+2026-03-28 23:20:03,046 - INFO - API 호출: 47세 여성
+2026-03-28 23:20:03,092 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=47&channel=1004'
+2026-03-28 23:20:03,593 - INFO - API 호출: 48세 남성
+2026-03-28 23:20:03,639 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=48&channel=1004'
+2026-03-28 23:20:04,153 - INFO - API 호출: 48세 여성
+2026-03-28 23:20:04,200 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=48&channel=1004'
+2026-03-28 23:20:04,714 - INFO - API 호출: 49세 남성
+2026-03-28 23:20:04,760 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=49&channel=1004'
+2026-03-28 23:20:05,272 - INFO - API 호출: 49세 여성
+2026-03-28 23:20:05,322 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=49&channel=1004'
+2026-03-28 23:20:05,834 - INFO - API 호출: 50세 남성
+2026-03-28 23:20:05,896 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=50&channel=1004'
+2026-03-28 23:20:06,410 - INFO - API 호출: 50세 여성
+2026-03-28 23:20:06,456 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=50&channel=1004'
+2026-03-28 23:20:06,969 - INFO - API 호출: 51세 남성
+2026-03-28 23:20:07,032 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=51&channel=1004'
+2026-03-28 23:20:07,533 - INFO - API 호출: 51세 여성
+2026-03-28 23:20:07,579 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=51&channel=1004'
+2026-03-28 23:20:08,091 - INFO - API 호출: 52세 남성
+2026-03-28 23:20:08,136 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=52&channel=1004'
+2026-03-28 23:20:08,651 - INFO - API 호출: 52세 여성
+2026-03-28 23:20:08,704 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=52&channel=1004'
+2026-03-28 23:20:09,209 - INFO - API 호출: 53세 남성
+2026-03-28 23:20:09,255 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=53&channel=1004'
+2026-03-28 23:20:09,768 - INFO - API 호출: 53세 여성
+2026-03-28 23:20:09,815 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=53&channel=1004'
+2026-03-28 23:20:10,331 - INFO - API 호출: 54세 남성
+2026-03-28 23:20:10,377 - ERROR - API 호출 중 오류: 200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=1&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=54&channel=1004'

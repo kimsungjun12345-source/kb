@@ -1,0 +1,11 @@
+{
+  "basic_info": {
+    "age": 30,
+    "gender": "남성",
+    "birthdate": "19960811",
+    "scraped_at": "2026-03-31T02:16:04.683020"
+  },
+  "plans": {},
+  "comprehensive_plans": {},
+  "fixed_plans": {}
+}

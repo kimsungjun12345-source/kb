@@ -1,0 +1,16 @@
+{
+  "product_info": {
+    "name": "KB 딱좋은 e-건강보험",
+    "code": "",
+    "type": "",
+    "collected_at": "2026-03-28T23:19:09.414395"
+  },
+  "main_coverage": [],
+  "optional_riders": [],
+  "subscription_conditions": {
+    "age_range": "",
+    "payment_period": [],
+    "insurance_period": [],
+    "coverage_amounts": []
+  }
+}

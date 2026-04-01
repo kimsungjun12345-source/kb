@@ -1,0 +1,61 @@
+{
+  "scraper_settings": {
+    "headless": false,
+    "window_size": "1920,1080",
+    "page_load_timeout": 20,
+    "element_wait_timeout": 10,
+    "request_delay": 2
+  },
+  "urls": [
+    "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+    "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+    "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YT_01&productType=5",
+    "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_SR_01&productType=5",
+    "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_NP_01&productType=5"
+  ],
+  "test_ages": [25, 30, 35, 40, 45, 50, 55, 60],
+  "selectors": {
+    "product_name": [
+      "h1.product-title",
+      ".product-name",
+      "h1",
+      ".title",
+      "#productName"
+    ],
+    "product_description": [
+      ".product-description",
+      ".product-summary",
+      ".description",
+      ".summary"
+    ],
+    "age_input": [
+      "input[name*='age']",
+      "input[id*='age']",
+      ".age-input",
+      "input[placeholder*='나이']"
+    ],
+    "calc_button": [
+      "button[class*='calc']",
+      "button[class*='계산']",
+      ".calc-btn",
+      "input[type='button'][value*='계산']"
+    ],
+    "premium_result": [
+      ".premium-result",
+      ".calc-result",
+      ".보험료",
+      ".premium-amount"
+    ],
+    "terms_button": [
+      ".terms-button",
+      ".약관보기",
+      "a[href*='terms']",
+      ".contract-terms"
+    ]
+  },
+  "output": {
+    "json_filename": "kb_insurance_products_{timestamp}.json",
+    "excel_filename": "kb_insurance_products_{timestamp}.xlsx",
+    "log_filename": "kb_scraper.log"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "basic_info": {
+    "age": 30,
+    "gender": "남성",
+    "birthdate": "19960723",
+    "scraped_at": "2026-03-29T19:13:28.938905",
+    "page_url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5"
+  },
+  "plans": {
+    "plan_1": {
+      "plan_number": 1,
+      "plan_name": "KB,알기쉬운종신보험은 가입 1년 이후부터 높은 해약환급률을 보장하는 종신보험입니다.해약환",
+      "premium": "127,228원",
+      "coverage": [
+        "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+        "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+        "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                 ",
+        "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                ",
+        "온라인보험\n            \n              \n                \n                  온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해"
+      ],
+      "collected_at": "2026-03-29T19:13:31.821828"
+    },
+    "plan_2": {
+      "plan_number": 2,
+      "plan_name": "KB,알기쉬운종신보험은 가입 1년 이후부터 높은 해약환급률을 보장하는 종신보험입니다.해약환",
+      "premium": "127,228원",
+      "coverage": [
+        "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+        "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+        "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                 ",
+        "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                ",
+        "온라인보험\n            \n              \n                \n                  온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해"
+      ],
+      "collected_at": "2026-03-29T19:13:33.970072"
+    },
+    "plan_3": {
+      "plan_number": 3,
+      "plan_name": "KB,알기쉬운종신보험은 가입 1년 이후부터 높은 해약환급률을 보장하는 종신보험입니다.해약환",
+      "premium": "127,228원",
+      "coverage": [
+        "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+        "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+        "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                 ",
+        "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                ",
+        "온라인보험\n            \n              \n                \n                  온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해"
+      ],
+      "collected_at": "2026-03-29T19:13:36.955722"
+    },
+    "plan_4": {
+      "plan_number": 4,
+      "plan_name": "KB,알기쉬운종신보험은 가입 1년 이후부터 높은 해약환급률을 보장하는 종신보험입니다.해약환",
+      "premium": "127,228원",
+      "coverage": [
+        "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+        "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+        "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                 ",
+        "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                ",
+        "온라인보험\n            \n              \n                \n                  온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해"
+      ],
+      "collected_at": "2026-03-29T19:13:39.421694"
+    }
+  },
+  "special_clauses": [],
+  "tooltips": {
+    "tooltip_0": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "통합검색 열기",
+      "element_tag": "BUTTON"
+    },
+    "tooltip_1": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "전체메뉴 열기",
+      "element_tag": "BUTTON"
+    },
+    "tooltip_2": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창 열림",
+      "element_tag": "BUTTON"
+    },
+    "tooltip_3": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "생년월일(YYYYMMDD)",
+      "element_tag": "INPUT"
+    },
+    "tooltip_4": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "남자",
+      "element_tag": "INPUT"
+    },
+    "tooltip_5": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "여자",
+      "element_tag": "INPUT"
+    },
+    "tooltip_6": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "선택됨",
+      "element_tag": "A"
+    },
+    "tooltip_7": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "다운로드",
+      "element_tag": "A"
+    },
+    "tooltip_8": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "다운로드",
+      "element_tag": "A"
+    },
+    "tooltip_9": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_10": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_11": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_12": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_13": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "금융상품 판매대리·중개업자 증서 보기(새창 열림)",
+      "element_tag": "A"
+    },
+    "tooltip_14": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림 - KB라이프생명 공식 유튜브 채널 바로가기",
+      "element_tag": "A"
+    },
+    "tooltip_15": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림 - KB라이프생명 공식 네이버 블로그 바로가기",
+      "element_tag": "A"
+    },
+    "tooltip_16": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림 - KB라이프생명 공식 인스타그램 바로가기",
+      "element_tag": "A"
+    },
+    "tooltip_17": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_18": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_19": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    }
+  },
+  "premiums": {
+    "base_premium": "127,228원",
+    "clause_premiums": {}
+  },
+  "validation": {
+    "plans_count": 4,
+    "clauses_count": 0,
+    "tooltips_count": 20,
+    "base_premium_exists": true,
+    "completion_score": 70,
+    "missing_items": [
+      "특약 데이터 부족"
+    ]
+  }
+}

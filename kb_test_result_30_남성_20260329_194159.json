@@ -1,0 +1,27 @@
+{
+  "age": 30,
+  "gender": "남성",
+  "birthdate": "19960103",
+  "scraped_at": "2026-03-29T19:41:59.781755",
+  "page_url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+  "special_clauses": [
+    {
+      "index": 6,
+      "text": "뇌/심장뇌/심장, 혈관질환",
+      "is_checked": false,
+      "base_premium": "127,228",
+      "premium_with_clause": null,
+      "premium_difference": null,
+      "test_successful": false
+    },
+    {
+      "index": 30,
+      "text": "수술/치료",
+      "is_checked": false,
+      "base_premium": "127,228",
+      "premium_with_clause": null,
+      "premium_difference": null,
+      "test_successful": false
+    }
+  ]
+}

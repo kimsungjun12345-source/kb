@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "scraped_at": "2026-03-29T00:29:50.843167",
+    "scraper_version": "complete_premium_1.0",
+    "description": "생년월일/성별 입력, 플랜별 특약, 도움말 완전 수집기"
+  },
+  "products": [
+    {
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+      "processed_at": "2026-03-29T00:29:51.659812",
+      "profiles": {},
+      "product_name": "KB라이프생명"
+    },
+    {
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+      "processed_at": "2026-03-29T00:30:09.818040",
+      "profiles": {},
+      "product_name": "KB라이프생명"
+    },
+    {
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YT_01&productType=5",
+      "processed_at": "2026-03-29T00:30:36.057630",
+      "profiles": {},
+      "product_name": "KB라이프생명"
+    },
+    {
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_SR_01&productType=5",
+      "processed_at": "2026-03-29T00:31:00.890839",
+      "profiles": {},
+      "product_name": "KB라이프생명"
+    },
+    {
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_NP_01&productType=5",
+      "processed_at": "2026-03-29T00:31:17.370637",
+      "profiles": {},
+      "product_name": "KB라이프생명"
+    }
+  ]
+}

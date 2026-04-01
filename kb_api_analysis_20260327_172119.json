@@ -1,0 +1,1189 @@
+{
+  "timestamp": "20260327_172119",
+  "total_apis_found": 71,
+  "interaction_triggered_apis": 3,
+  "found_apis": [
+    {
+      "timestamp": "2026-03-27T17:16:27.656839",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+      "headers": {
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "post_data": null,
+      "resource_type": "document"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:27.975452",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/js/insurance-product/productNoticePop.js",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "script"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:27.981320",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/js/info-notice.js",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "script"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:27.981618",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/js/insurance-product/productDetail.js",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "script"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:28.051830",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/css/dpa-detail.css",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/dpa-common.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "stylesheet"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:28.464291",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/img/product/img-prod-visual-00.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/re-common.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:28.464868",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/img/insurance-product/ico-product-info-txt1.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/dpa-online.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:28.465159",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/img/product/gender_man_off.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/re-common.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:28.465427",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/img/product/gender_woman_off.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/re-common.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:28.466550",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/img/product/btn_chatting_v2_1.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/re-common.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:28.466832",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/img/product/btn_chatting_v2_2.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/re-common.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:28.741828",
+      "method": "POST",
+      "url": "https://www.kblife.co.kr/m/insurance-product/searchProduct.do",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "application/json, text/javascript, */*; q=0.01",
+        "content-type": "application/x-www-form-urlencoded; charset=UTF-8"
+      },
+      "post_data": "searchKeyword=&sorting=SCR_EPOS_RANK&outmax=8&pg=1&productId=&productKind=&productType=5&p1=2222",
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:28.942750",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/api/product/product-link/ON_PD_KC_01",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "*/*",
+        "content-type": "application/json;charset=UTF-8"
+      },
+      "post_data": null,
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:28.945714",
+      "method": "GET",
+      "url": "https://bc.ad.daum.net/bc?d=%7B%22track_id%22%3A%227380488690011423282%22%2C%22event_code%22%3A%22PageView%22%2C%22params%22%3A%7B%22tag%22%3A%22KBlife_2023%22%7D%2C%22props%22%3A%7B%22lmt%22%3A%22N%22%7D%2C%22site%22%3A%7B%22identifier%22%3A%22www.kblife.co.kr%22%7D%2C%22sdk%22%3A%7B%22type%22%3A%22WEB%22%2C%22version%22%3A%221.6.4%22%2C%22tpc%22%3A%22Y%22%7D%2C%22page%22%3A%7B%22url%22%3A%22https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_KC_01%26productType%3D5%22%2C%22is_frame_env%22%3Afalse%7D%2C%22device%22%3A%7B%22dnt%22%3A%22N%22%2C%22device_type%22%3A%22pc%22%2C%22is_mobile%22%3A%22N%22%2C%22browser%22%3A%22Chromium%22%2C%22browser_version%22%3A%22145.0.7632.6%22%2C%22os%22%3A%22Windows%22%2C%22os_version%22%3A%2210.0%22%7D%7D",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "fetch"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:29.026521",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/api/product/product-details/501615946",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "*/*",
+        "content-type": "application/json;charset=UTF-8"
+      },
+      "post_data": null,
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:29.074975",
+      "method": "GET",
+      "url": "https://wan.kbdmp.com/provider?client_id=WA-0014&isCookie=true&page_location=https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_KC_01%26productType%3D5&page_referrer=&session_id=%7C1774599389072&session_start=1774599389072&language=ko&country=KR&page_title=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&screen_resolution=1920X1080&_m_uid=&user_attribute=%7B%7D&event_type=page_view&event_category=&event_label=&search_term=&_oaid=&event_attribute=%7B%7D",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "script"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:29.153673",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/contents/channel/product/image/pc_product_top_230307_20260323090158.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:29.153973",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/img/product/prd_chk_icn_2.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/re-common.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:29.154174",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/img/product/ico-bg.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/re-common.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:29.154342",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/img/product/icon/prd_online_cs_icn_4.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/re-common.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:29.184335",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/m/insurance-product/searchProductType02.do?sorting=SCR_EPOS_RANK&productType=5&",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "*/*",
+        "content-type": "application/json;charset=UTF-8"
+      },
+      "post_data": null,
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:29.185200",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/api/insuranceplan/insuranceplan-code/product-special-qualities",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "*/*",
+        "content-type": "application/json;charset=UTF-8"
+      },
+      "post_data": null,
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:29.283593",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/api/insuranceplan/insuranceplan-code/tooltip-messages",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "*/*",
+        "content-type": "application/json;charset=UTF-8"
+      },
+      "post_data": null,
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:29.374772",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/api/insuranceplan/product-mappings/316100104?corpTypeCode=3&",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "*/*",
+        "content-type": "application/json;charset=UTF-8"
+      },
+      "post_data": null,
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:29.375125",
+      "method": "POST",
+      "url": "https://www.kblife.co.kr/online-insurance/API/getOnNotice.do",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "application/json, text/javascript, */*; q=0.01",
+        "content-type": "application/json; charset=UTF-8"
+      },
+      "post_data": "{\"g\":\"p0SlSxICbS8JJXCZO3cyuR9XM8h6\",\"b\":\"MTQ1NzgxMDUxMTlmNGUxMjljOTdmNzZlOGJlNmI2YjSgEadTVwc%2FPiUwdrtuPia2UgEg3GSrWjHxxnMqfsvEyr%2BRdnu5E2gLhkbA3bn27ftmHzjzmKayVZXd%2BCg%3D\"}",
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:29.575727",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/316100104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=0&channel=1004&",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "*/*",
+        "content-type": "application/json;charset=UTF-8"
+      },
+      "post_data": null,
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:29.838823",
+      "method": "POST",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-9XMYJ3XQF2&gtm=45je63p1v888558539za200zd888558539&_p=1774599389808&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1954591211.1774599390&ul=ko-kr&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B145.0.7632.6%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAGA&_s=1&tag_exp=0~115938465~115938469~117384406~117484252&dp=%EB%8C%80%EA%B3%A0%EA%B0%9DPC%3E%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8%3EKB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&sid=1774599389&sct=1&seg=0&dl=https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_KC_01%26productType%3D5&dt=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&tfd=2168",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": "en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&ep.page_type=M",
+      "resource_type": "fetch"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:29.839250",
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-T0WVH888J3&gtm=45je63p1v888558539za200zd888558539&_p=1774599389808&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1954591211.1774599390&ul=ko-kr&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B145.0.7632.6%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&tag_exp=0~115938465~115938469~117384406~117484252&dp=%EB%8C%80%EA%B3%A0%EA%B0%9DPC%3E%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8%3EKB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&sid=1774599389&sct=1&seg=0&dl=https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_KC_01%26productType%3D5&dt=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&tfd=2174",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": "en=page_view&_fv=1&_ss=1&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&ep.page_type=M",
+      "resource_type": "fetch"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:30.545272",
+      "method": "POST",
+      "url": "https://www.kblife.co.kr/api/application/psco/ess-step-info",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "application/json, text/javascript, */*; q=0.01",
+        "content-type": "application/x-www-form-urlencoded; charset=UTF-8"
+      },
+      "post_data": "essStep=011&prodCd=316100104&prodNm=KB+%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98+%EB%AC%B4%EB%B0%B0%EB%8B%B9&prodCdSub=316100104&cntrSeqId=&affCd=",
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:30.641942",
+      "method": "POST",
+      "url": "https://www.kblife.co.kr/api/application/appl/putDgtlCnttInfo.do",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "application/json, text/javascript, */*; q=0.01",
+        "content-type": "application/json; charset=UTF-8"
+      },
+      "post_data": "{\"stepCd\":\"0301\"}",
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:34.837931",
+      "method": "POST",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-9XMYJ3XQF2&gtm=45je63p1v888558539za200zd888558539&_p=1774599389808&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1954591211.1774599390&ul=ko-kr&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B145.0.7632.6%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAGQ&_s=2&tag_exp=0~115938465~115938469~117384406~117484252&dp=%EB%8C%80%EA%B3%A0%EA%B0%9DPC%3E%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8%3EKB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&sid=1774599389&sct=1&seg=0&dl=https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_KC_01%26productType%3D5&dt=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&tfd=7182",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": "en=page_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&ep.page_type=M&_et=9",
+      "resource_type": "fetch"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:34.844704",
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-T0WVH888J3&gtm=45je63p1v888558539za200zd888558539&_p=1774599389808&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1954591211.1774599390&ul=ko-kr&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B145.0.7632.6%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=2&tag_exp=0~115938465~115938469~117384406~117484252&dp=%EB%8C%80%EA%B3%A0%EA%B0%9DPC%3E%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8%3EKB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&sid=1774599389&sct=1&seg=0&dl=https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_KC_01%26productType%3D5&dt=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&tfd=7189",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": "en=page_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&ep.page_type=M&_et=6",
+      "resource_type": "fetch"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:37.262440",
+      "method": "POST",
+      "url": "https://www.kblife.co.kr/online-insurance/API/getOnNotice.do",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "application/json, text/javascript, */*; q=0.01",
+        "content-type": "application/json; charset=UTF-8"
+      },
+      "post_data": "{\"g\":\"p0SlSxICbS8JJXCZO3cyuR9XM8h6\",\"b\":\"MTQ1NzgxMDUxMTlmNGUxMjljOTdmNzZlOGJlNmI2YjSgEadTVwc%2FPiUwdrtuPia2UgEg3GSrWjHxxnMqfsvEyr%2BRdnu5E2gLhkbA3bn27ftmHzjzmKayVZXd%2BCg%3D\"}",
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:42.515951",
+      "method": "POST",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-9XMYJ3XQF2&gtm=45je63p1v888558539za200zd888558539&_p=1774599389808&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1954591211.1774599390&ul=ko-kr&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B145.0.7632.6%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAGQ&tag_exp=0~115938465~115938469~117384406~117484252&dp=%EB%8C%80%EA%B3%A0%EA%B0%9DPC%3E%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8%3EKB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&sid=1774599389&sct=1&seg=0&dl=https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_KC_01%26productType%3D5&dt=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&_s=3&tfd=14860",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": "en=click_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&ep.page_type=M&ep.event_category=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.event_label=%EC%98%88%EC%83%81%EB%B3%B4%ED%97%98%EB%A3%8C%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0&_et=7678\r\nen=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%EC%B2%AD%EC%95%BD_p_020&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=%EB%B3%B4%ED%97%98%EB%A3%8C%EA%B3%84%EC%82%B0&ep.page_type=M&ep.btn_name=%EC%98%88%EC%83%81%EB%B3%B4%ED%97%98%EB%A3%8C%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0&_et=4\r\nen=page_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fsyst%2FsystemAlert1&ep.title=%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%95%8C%EB%A6%BC&ep.page_type=P&_et=1112",
+      "resource_type": "fetch"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:42.518988",
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-T0WVH888J3&gtm=45je63p1v888558539za200zd888558539&_p=1774599389808&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1954591211.1774599390&ul=ko-kr&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B145.0.7632.6%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&tag_exp=0~115938465~115938469~117384406~117484252&dp=%EB%8C%80%EA%B3%A0%EA%B0%9DPC%3E%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8%3EKB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&sid=1774599389&sct=1&seg=0&dl=https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_KC_01%26productType%3D5&dt=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&_s=3&tfd=14863",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": "en=click_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&ep.page_type=M&ep.event_category=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.event_label=%EC%98%88%EC%83%81%EB%B3%B4%ED%97%98%EB%A3%8C%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0&_et=7678\r\nen=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%EC%B2%AD%EC%95%BD_p_020&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=%EB%B3%B4%ED%97%98%EB%A3%8C%EA%B3%84%EC%82%B0&ep.page_type=M&ep.btn_name=%EC%98%88%EC%83%81%EB%B3%B4%ED%97%98%EB%A3%8C%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0&_et=5\r\nen=page_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fsyst%2FsystemAlert1&ep.title=%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%95%8C%EB%A6%BC&ep.page_type=P&_et=1112",
+      "resource_type": "fetch"
+    },
+    {
+      "timestamp": "2026-03-27T17:16:56.680535",
+      "method": "POST",
+      "url": "https://www.kblife.co.kr/online-insurance/API/getOnNotice.do",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "application/json, text/javascript, */*; q=0.01",
+        "content-type": "application/json; charset=UTF-8"
+      },
+      "post_data": "{\"g\":\"p0SlSxICbS8JJXCZO3cyuR9XM8h6\",\"b\":\"MTQ1NzgxMDUxMTlmNGUxMjljOTdmNzZlOGJlNmI2YjSgEadTVwc%2FPiUwdrtuPia2UgEg3GSrWjHxxnMqfsvEyr%2BRdnu5E2gLhkbA3bn27ftmHzjzmKayVZXd%2BCg%3D\"}",
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:17:01.159230",
+      "method": "POST",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-9XMYJ3XQF2&gtm=45je63p1v888558539za200zd888558539&_p=1774599389808&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1954591211.1774599390&ul=ko-kr&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B145.0.7632.6%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAGQ&tag_exp=0~115938465~115938469~117384406~117484252&dp=%EB%8C%80%EA%B3%A0%EA%B0%9DPC%3E%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8%3EKB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&sid=1774599389&sct=1&seg=1&dl=https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_KC_01%26productType%3D5&dt=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&_s=4&tfd=33504",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": "en=click_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&ep.page_type=M&ep.event_category=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.event_label=%ED%99%95%EC%9D%B8&_et=17519\r\nen=click_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&ep.page_type=M&ep.event_category=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.event_label=%EC%98%88%EC%83%81%EB%B3%B4%ED%97%98%EB%A3%8C%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0&_et=802\r\nen=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%EC%B2%AD%EC%95%BD_p_020&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=%EB%B3%B4%ED%97%98%EB%A3%8C%EA%B3%84%EC%82%B0&ep.page_type=M&ep.btn_name=%EC%98%88%EC%83%81%EB%B3%B4%ED%97%98%EB%A3%8C%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0&_et=3\r\nen=page_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fsyst%2FsystemAlert1&ep.title=%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%95%8C%EB%A6%BC&ep.page_type=P&_et=1115",
+      "resource_type": "fetch"
+    },
+    {
+      "timestamp": "2026-03-27T17:17:01.162397",
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-T0WVH888J3&gtm=45je63p1v888558539za200zd888558539&_p=1774599389808&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1954591211.1774599390&ul=ko-kr&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B145.0.7632.6%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&tag_exp=0~115938465~115938469~117384406~117484252&dp=%EB%8C%80%EA%B3%A0%EA%B0%9DPC%3E%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8%3EKB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&sid=1774599389&sct=1&seg=1&dl=https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_KC_01%26productType%3D5&dt=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&_s=4&tfd=33507",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": "en=click_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&ep.page_type=M&ep.event_category=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.event_label=%ED%99%95%EC%9D%B8&_et=17521\r\nen=click_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&ep.page_type=M&ep.event_category=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.event_label=%EC%98%88%EC%83%81%EB%B3%B4%ED%97%98%EB%A3%8C%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0&_et=801\r\nen=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%EC%B2%AD%EC%95%BD_p_020&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=%EB%B3%B4%ED%97%98%EB%A3%8C%EA%B3%84%EC%82%B0&ep.page_type=M&ep.btn_name=%EC%98%88%EC%83%81%EB%B3%B4%ED%97%98%EB%A3%8C%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0&_et=3\r\nen=page_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EC%B0%A9%ED%95%9C%EC%95%94%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=316100104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fsyst%2FsystemAlert1&ep.title=%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%95%8C%EB%A6%BC&ep.page_type=P&_et=1117",
+      "resource_type": "fetch"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:44.004635",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+      "headers": {
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "post_data": null,
+      "resource_type": "document"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:44.356876",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/js/insurance-product/productNoticePop.js",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "script"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:44.361027",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/js/info-notice.js",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "script"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:44.361297",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/js/insurance-product/productDetail.js",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "script"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:44.431505",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/css/dpa-detail.css",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/dpa-common.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "stylesheet"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:44.883794",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/img/product/img-prod-visual-00.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/re-common.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:44.884334",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/img/insurance-product/ico-product-info-txt1.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/dpa-online.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:44.884688",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/img/product/gender_man_off.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/re-common.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:44.885061",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/img/product/gender_woman_off.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/re-common.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:44.887234",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/img/product/btn_chatting_v2_1.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/re-common.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:44.887742",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/img/product/btn_chatting_v2_2.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/re-common.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:45.042214",
+      "method": "POST",
+      "url": "https://www.kblife.co.kr/m/insurance-product/searchProduct.do",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "application/json, text/javascript, */*; q=0.01",
+        "content-type": "application/x-www-form-urlencoded; charset=UTF-8"
+      },
+      "post_data": "searchKeyword=&sorting=SCR_EPOS_RANK&outmax=8&pg=1&productId=&productKind=&productType=5&p1=2222",
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:45.326747",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/api/product/product-link/ON_PD_YG_01",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "*/*",
+        "content-type": "application/json;charset=UTF-8"
+      },
+      "post_data": null,
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:45.329361",
+      "method": "GET",
+      "url": "https://bc.ad.daum.net/bc?d=%7B%22track_id%22%3A%227380488690011423282%22%2C%22event_code%22%3A%22PageView%22%2C%22params%22%3A%7B%22tag%22%3A%22KBlife_2023%22%7D%2C%22props%22%3A%7B%22lmt%22%3A%22N%22%7D%2C%22site%22%3A%7B%22identifier%22%3A%22www.kblife.co.kr%22%7D%2C%22sdk%22%3A%7B%22type%22%3A%22WEB%22%2C%22version%22%3A%221.6.4%22%2C%22tpc%22%3A%22Y%22%7D%2C%22page%22%3A%7B%22url%22%3A%22https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_YG_01%26productType%3D5%22%2C%22is_frame_env%22%3Afalse%7D%2C%22device%22%3A%7B%22dnt%22%3A%22N%22%2C%22device_type%22%3A%22pc%22%2C%22is_mobile%22%3A%22N%22%2C%22browser%22%3A%22Chromium%22%2C%22browser_version%22%3A%22145.0.7632.6%22%2C%22os%22%3A%22Windows%22%2C%22os_version%22%3A%2210.0%22%7D%7D",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "fetch"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:45.365062",
+      "method": "GET",
+      "url": "https://wan.kbdmp.com/provider?client_id=WA-0014&isCookie=true&page_location=https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_YG_01%26productType%3D5&page_referrer=&session_id=%7C1774599525363&session_start=1774599525363&language=ko&country=KR&page_title=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)&screen_resolution=1920X1080&_m_uid=&user_attribute=%7B%7D&event_type=page_view&event_category=&event_label=&search_term=&_oaid=&event_attribute=%7B%7D",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "script"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:45.410246",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/api/product/product-details/501615944",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "*/*",
+        "content-type": "application/json;charset=UTF-8"
+      },
+      "post_data": null,
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:45.544553",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/contents/channel/product/image/%EC%83%81%ED%92%88%EB%B0%B0%EB%84%88_%EB%94%B1%EC%A2%8B%EC%9D%80e%EA%B1%B4%EA%B0%95_pc_%EC%9D%BC%EB%B0%98_20260129143724.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:45.544906",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/res/pc/img/product/icon/prd_online_cs_icn_7.png",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/res/pc/css/re-common.css",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": null,
+      "resource_type": "image"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:45.583320",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/m/insurance-product/searchProductType02.do?sorting=SCR_EPOS_RANK&productType=5&",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "*/*",
+        "content-type": "application/json;charset=UTF-8"
+      },
+      "post_data": null,
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:46.206072",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/api/insuranceplan/insuranceplan-code/product-special-qualities",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "*/*",
+        "content-type": "application/json;charset=UTF-8"
+      },
+      "post_data": null,
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:46.370526",
+      "method": "POST",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-9XMYJ3XQF2&gtm=45je63p1v888558539za200zd888558539&_p=1774599526335&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=399020213.1774599526&ul=ko-kr&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B145.0.7632.6%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAGA&_s=1&tag_exp=0~115616985~115938465~115938469~117484252~117884344&dp=%EB%8C%80%EA%B3%A0%EA%B0%9DPC%3E%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8%3EKB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&sid=1774599526&sct=1&seg=0&dl=https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_YG_01%26productType%3D5&dt=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&tfd=2355",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": "en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=337600104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&ep.page_type=M",
+      "resource_type": "fetch"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:46.370990",
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-T0WVH888J3&gtm=45je63p1v888558539za200zd888558539&_p=1774599526335&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=399020213.1774599526&ul=ko-kr&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B145.0.7632.6%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&tag_exp=0~115616985~115938465~115938469~117484252~117884344&dp=%EB%8C%80%EA%B3%A0%EA%B0%9DPC%3E%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8%3EKB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&sid=1774599526&sct=1&seg=0&dl=https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_YG_01%26productType%3D5&dt=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&tfd=2361",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": "en=page_view&_fv=1&_ss=1&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=337600104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&ep.page_type=M",
+      "resource_type": "fetch"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:46.384940",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/api/insuranceplan/insuranceplan-code/tooltip-messages",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "*/*",
+        "content-type": "application/json;charset=UTF-8"
+      },
+      "post_data": null,
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:46.480051",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/api/insuranceplan/product-mappings/337600104?corpTypeCode=3&",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "*/*",
+        "content-type": "application/json;charset=UTF-8"
+      },
+      "post_data": null,
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:46.481506",
+      "method": "POST",
+      "url": "https://www.kblife.co.kr/online-insurance/API/getOnNotice.do",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "application/json, text/javascript, */*; q=0.01",
+        "content-type": "application/json; charset=UTF-8"
+      },
+      "post_data": "{\"g\":\"nGxTLPVIBFTCJ7LWIksGscvvKjO3\",\"b\":\"OGU4OGM2OWRlZDhhNDZkYmJjYTRiN2U4MDc1NWNmOGSTals8sxtYELhhsaZxBUDr2rlqJa3N2UydwS8Z8H%2FpV7lDzSCvfYPS1YyW3XDAvW7DeQp54S%2F3TXxdsqM%3D\"}",
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:46.702020",
+      "method": "GET",
+      "url": "https://www.kblife.co.kr/api/insuranceplan/insuranceplan-option/337600104?genderCode=2&isVariable=false&isAnnuity=false&riskGrdCd=3&insuranceAge=0&channel=1004&",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "*/*",
+        "content-type": "application/json;charset=UTF-8"
+      },
+      "post_data": null,
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:51.373754",
+      "method": "POST",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-9XMYJ3XQF2&gtm=45je63p1v888558539za200zd888558539&_p=1774599526335&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=399020213.1774599526&ul=ko-kr&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B145.0.7632.6%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAGQ&_s=2&tag_exp=0~115616985~115938465~115938469~117484252~117884344&dp=%EB%8C%80%EA%B3%A0%EA%B0%9DPC%3E%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8%3EKB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&sid=1774599526&sct=1&seg=0&dl=https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_YG_01%26productType%3D5&dt=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&tfd=7367",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": "en=page_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=337600104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&ep.page_type=M&_et=11",
+      "resource_type": "fetch"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:51.375785",
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-T0WVH888J3&gtm=45je63p1v888558539za200zd888558539&_p=1774599526335&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=399020213.1774599526&ul=ko-kr&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B145.0.7632.6%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=2&tag_exp=0~115616985~115938465~115938469~117484252~117884344&dp=%EB%8C%80%EA%B3%A0%EA%B0%9DPC%3E%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8%3EKB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&sid=1774599526&sct=1&seg=0&dl=https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_YG_01%26productType%3D5&dt=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&tfd=7369",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": "en=page_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=337600104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&ep.page_type=M&_et=4",
+      "resource_type": "fetch"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:55.528171",
+      "method": "POST",
+      "url": "https://www.kblife.co.kr/api/application/psco/ess-step-info",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "application/json, text/javascript, */*; q=0.01",
+        "content-type": "application/x-www-form-urlencoded; charset=UTF-8"
+      },
+      "post_data": "essStep=011&prodCd=337600104&prodNm=KB+%EB%94%B1%EC%A2%8B%EC%9D%80+e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98+%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88+%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)&prodCdSub=337600104&cntrSeqId=&affCd=",
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:18:55.619415",
+      "method": "POST",
+      "url": "https://www.kblife.co.kr/api/application/appl/putDgtlCnttInfo.do",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "application/json, text/javascript, */*; q=0.01",
+        "content-type": "application/json; charset=UTF-8"
+      },
+      "post_data": "{\"stepCd\":\"0301\"}",
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:19:02.171503",
+      "method": "POST",
+      "url": "https://www.kblife.co.kr/online-insurance/API/getOnNotice.do",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-requested-with": "XMLHttpRequest",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "application/json, text/javascript, */*; q=0.01",
+        "content-type": "application/json; charset=UTF-8"
+      },
+      "post_data": "{\"g\":\"nGxTLPVIBFTCJ7LWIksGscvvKjO3\",\"b\":\"OGU4OGM2OWRlZDhhNDZkYmJjYTRiN2U4MDc1NWNmOGSTals8sxtYELhhsaZxBUDr2rlqJa3N2UydwS8Z8H%2FpV7lDzSCvfYPS1YyW3XDAvW7DeQp54S%2F3TXxdsqM%3D\"}",
+      "resource_type": "xhr"
+    },
+    {
+      "timestamp": "2026-03-27T17:19:07.454223",
+      "method": "POST",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-9XMYJ3XQF2&gtm=45je63p1v888558539za200zd888558539&_p=1774599526335&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=399020213.1774599526&ul=ko-kr&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B145.0.7632.6%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAGQ&tag_exp=0~115616985~115938465~115938469~117484252~117884344&dp=%EB%8C%80%EA%B3%A0%EA%B0%9DPC%3E%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8%3EKB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&sid=1774599526&sct=1&seg=1&dl=https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_YG_01%26productType%3D5&dt=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&_s=3&tfd=23452",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": "en=click_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=337600104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&ep.page_type=M&ep.event_category=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.event_label=%EC%98%88%EC%83%81%EB%B3%B4%ED%97%98%EB%A3%8C%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0&_et=16084\r\nen=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%EC%B2%AD%EC%95%BD_p_020&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=337600104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=%EB%B3%B4%ED%97%98%EB%A3%8C%EA%B3%84%EC%82%B0&ep.page_type=M&ep.btn_name=%EC%98%88%EC%83%81%EB%B3%B4%ED%97%98%EB%A3%8C%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0&_et=5\r\nen=page_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=337600104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fsyst%2FsystemAlert1&ep.title=%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%95%8C%EB%A6%BC&ep.page_type=P&_et=1145",
+      "resource_type": "fetch"
+    },
+    {
+      "timestamp": "2026-03-27T17:19:07.457495",
+      "method": "POST",
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-T0WVH888J3&gtm=45je63p1v888558539za200zd888558539&_p=1774599526335&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=399020213.1774599526&ul=ko-kr&sr=1920x1080&uaa=x86&uab=64&uafvl=Chromium%3B145.0.7632.6%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&tag_exp=0~115616985~115938465~115938469~117484252~117884344&dp=%EB%8C%80%EA%B3%A0%EA%B0%9DPC%3E%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8%3EKB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&sid=1774599526&sct=1&seg=1&dl=https%3A%2F%2Fwww.kblife.co.kr%2Finsurance-product%2FproductDetails.do%3FlinkCd%3DON_PD_YG_01%26productType%3D5&dt=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&_s=3&tfd=23455",
+      "headers": {
+        "sec-ch-ua-platform": "\"Windows\"",
+        "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      },
+      "post_data": "en=click_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=337600104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)%20%3E%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%20%7C%20KB%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%83%9D%EB%AA%85&ep.page_type=M&ep.event_category=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.event_label=%EC%98%88%EC%83%81%EB%B3%B4%ED%97%98%EB%A3%8C%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0&_et=16084\r\nen=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%EC%B2%AD%EC%95%BD_p_020&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=337600104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fprod%2FproductDetails&ep.title=%EB%B3%B4%ED%97%98%EB%A3%8C%EA%B3%84%EC%82%B0&ep.page_type=M&ep.btn_name=%EC%98%88%EC%83%81%EB%B3%B4%ED%97%98%EB%A3%8C%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0&_et=4\r\nen=page_send&_ee=1&ep.login_yn=N&ep.marketting_yn=X&ep.channel_type=WEB_PC&ep.site_name=%EB%8C%80%EA%B3%A0%EA%B0%9D_PC&ep.prd_nm=KB%20%EB%94%B1%EC%A2%8B%EC%9D%80%20e-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%20%EB%AC%B4%EB%B0%B0%EB%8B%B9(%EA%B0%B1%EC%8B%A0%ED%98%95)(%EC%9D%BC%EB%B0%98%EC%8B%AC%EC%82%AC%ED%98%95)(%ED%95%B4%EC%95%BD%ED%99%98%EA%B8%89%EA%B8%88%20%EB%AF%B8%EC%A7%80%EA%B8%89%ED%98%95)&ep.prd_category=%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98&ep.prd_cd=337600104&ep.depth1=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98&ep.depth2=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth3=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth4=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.depth5=%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%B3%B4%ED%97%98%3E%EB%B3%B4%ED%97%98%EC%83%81%EC%84%B8&ep.location=https%3A%2F%2Fwww.kblife.co.kr%2Fsyst%2FsystemAlert1&ep.title=%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%95%8C%EB%A6%BC&ep.page_type=P&_et=1150",
+      "resource_type": "fetch"
+    }
+  ],
+  "interaction_apis": [
+    {
+      "trigger_element": {
+        "selector": "button:has-text(\"계산\")",
+        "text": "예상보험료 계산하기",
+        "html": "예상보험료 계산하기",
+        "tag": "BUTTON",
+        "attributes": {
+          "id": "calculateResult",
+          "class": "button-cal",
+          "type": "button",
+          "data-label": "",
+          "data-onlinetagevent": "온라인보험청약_p_020",
+          "data-onlinetagtitle": "보험료계산"
+        }
+      },
+      "api_call": {
+        "timestamp": "2026-03-27T17:16:37.262440",
+        "method": "POST",
+        "url": "https://www.kblife.co.kr/online-insurance/API/getOnNotice.do",
+        "headers": {
+          "sec-ch-ua-platform": "\"Windows\"",
+          "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+          "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+          "sec-ch-ua-mobile": "?0",
+          "x-requested-with": "XMLHttpRequest",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "accept": "application/json, text/javascript, */*; q=0.01",
+          "content-type": "application/json; charset=UTF-8"
+        },
+        "post_data": "{\"g\":\"p0SlSxICbS8JJXCZO3cyuR9XM8h6\",\"b\":\"MTQ1NzgxMDUxMTlmNGUxMjljOTdmNzZlOGJlNmI2YjSgEadTVwc%2FPiUwdrtuPia2UgEg3GSrWjHxxnMqfsvEyr%2BRdnu5E2gLhkbA3bn27ftmHzjzmKayVZXd%2BCg%3D\"}",
+        "resource_type": "xhr"
+      }
+    },
+    {
+      "trigger_element": {
+        "selector": "button:has-text(\"계산\")",
+        "text": "보험료 재계산하기",
+        "html": "<span>보험료 재계산하기</span>",
+        "tag": "BUTTON",
+        "attributes": {
+          "type": "button",
+          "class": "btn-join type2",
+          "id": "reCalculateButton",
+          "style": "display:none;"
+        }
+      },
+      "api_call": {
+        "timestamp": "2026-03-27T17:16:56.680535",
+        "method": "POST",
+        "url": "https://www.kblife.co.kr/online-insurance/API/getOnNotice.do",
+        "headers": {
+          "sec-ch-ua-platform": "\"Windows\"",
+          "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+          "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+          "sec-ch-ua-mobile": "?0",
+          "x-requested-with": "XMLHttpRequest",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "accept": "application/json, text/javascript, */*; q=0.01",
+          "content-type": "application/json; charset=UTF-8"
+        },
+        "post_data": "{\"g\":\"p0SlSxICbS8JJXCZO3cyuR9XM8h6\",\"b\":\"MTQ1NzgxMDUxMTlmNGUxMjljOTdmNzZlOGJlNmI2YjSgEadTVwc%2FPiUwdrtuPia2UgEg3GSrWjHxxnMqfsvEyr%2BRdnu5E2gLhkbA3bn27ftmHzjzmKayVZXd%2BCg%3D\"}",
+        "resource_type": "xhr"
+      }
+    },
+    {
+      "trigger_element": {
+        "selector": "button:has-text(\"계산\")",
+        "text": "예상보험료 계산하기",
+        "html": "예상보험료 계산하기",
+        "tag": "BUTTON",
+        "attributes": {
+          "id": "calculateResult",
+          "class": "button-cal",
+          "type": "button",
+          "data-label": "",
+          "data-onlinetagevent": "온라인보험청약_p_020",
+          "data-onlinetagtitle": "보험료계산"
+        }
+      },
+      "api_call": {
+        "timestamp": "2026-03-27T17:19:02.171503",
+        "method": "POST",
+        "url": "https://www.kblife.co.kr/online-insurance/API/getOnNotice.do",
+        "headers": {
+          "sec-ch-ua-platform": "\"Windows\"",
+          "referer": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+          "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+          "sec-ch-ua-mobile": "?0",
+          "x-requested-with": "XMLHttpRequest",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+          "accept": "application/json, text/javascript, */*; q=0.01",
+          "content-type": "application/json; charset=UTF-8"
+        },
+        "post_data": "{\"g\":\"nGxTLPVIBFTCJ7LWIksGscvvKjO3\",\"b\":\"OGU4OGM2OWRlZDhhNDZkYmJjYTRiN2U4MDc1NWNmOGSTals8sxtYELhhsaZxBUDr2rlqJa3N2UydwS8Z8H%2FpV7lDzSCvfYPS1YyW3XDAvW7DeQp54S%2F3TXxdsqM%3D\"}",
+        "resource_type": "xhr"
+      }
+    }
+  ]
+}

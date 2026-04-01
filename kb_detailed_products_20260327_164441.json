@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "scraped_at": "2026-03-27T16:44:41.281031",
+    "total_products": 5,
+    "scraper_version": "detailed_1.0",
+    "includes_special_clauses": true,
+    "includes_coverage_details": true
+  },
+  "products": [
+    {
+      "product_code": "ON_PD_KC_01",
+      "product_name": "음성 검색",
+      "product_type": "암보험",
+      "description": "KB라이프생명",
+      "main_coverage": [],
+      "special_clauses": [],
+      "premium_table": {},
+      "join_conditions": {
+        "requirements": []
+      },
+      "payment_conditions": [],
+      "exclusions": [],
+      "terms_summary": "",
+      "terms_full_text": "",
+      "company_info": "KB생명보험",
+      "contact_info": "",
+      "scraped_at": "2026-03-27T16:35:34.999528",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5"
+    },
+    {
+      "product_code": "ON_PD_YG_01",
+      "product_name": "음성 검색",
+      "product_type": "건강보험",
+      "description": "KB라이프생명",
+      "main_coverage": [],
+      "special_clauses": [],
+      "premium_table": {},
+      "join_conditions": {
+        "requirements": []
+      },
+      "payment_conditions": [],
+      "exclusions": [],
+      "terms_summary": "",
+      "terms_full_text": "",
+      "company_info": "KB생명보험",
+      "contact_info": "",
+      "scraped_at": "2026-03-27T16:37:55.343689",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5"
+    },
+    {
+      "product_code": "ON_PD_YT_01",
+      "product_name": "음성 검색",
+      "product_type": "건강보험",
+      "description": "KB라이프생명",
+      "main_coverage": [],
+      "special_clauses": [],
+      "premium_table": {},
+      "join_conditions": {
+        "requirements": []
+      },
+      "payment_conditions": [],
+      "exclusions": [],
+      "terms_summary": "",
+      "terms_full_text": "",
+      "company_info": "KB생명보험",
+      "contact_info": "",
+      "scraped_at": "2026-03-27T16:40:15.811167",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YT_01&productType=5"
+    },
+    {
+      "product_code": "ON_PD_SR_01",
+      "product_name": "음성 검색",
+      "product_type": "정기보험",
+      "description": "KB라이프생명",
+      "main_coverage": [],
+      "special_clauses": [],
+      "premium_table": {},
+      "join_conditions": {
+        "requirements": []
+      },
+      "payment_conditions": [],
+      "exclusions": [],
+      "terms_summary": "",
+      "terms_full_text": "",
+      "company_info": "KB생명보험",
+      "contact_info": "",
+      "scraped_at": "2026-03-27T16:42:28.097463",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_SR_01&productType=5"
+    },
+    {
+      "product_code": "ON_PD_NP_01",
+      "product_name": "음성 검색",
+      "product_type": "연금보험",
+      "description": "KB라이프생명",
+      "main_coverage": [],
+      "special_clauses": [],
+      "premium_table": {},
+      "join_conditions": {
+        "requirements": []
+      },
+      "payment_conditions": [],
+      "exclusions": [],
+      "terms_summary": "",
+      "terms_full_text": "",
+      "company_info": "KB생명보험",
+      "contact_info": "",
+      "scraped_at": "2026-03-27T16:44:41.069293",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_NP_01&productType=5"
+    }
+  ]
+}

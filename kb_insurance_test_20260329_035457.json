@@ -1,0 +1,2751 @@
+{
+  "metadata": {
+    "total_records": 12,
+    "failed_cases": 0,
+    "collection_date": "20260329_035457",
+    "age_range": "20-25",
+    "genders": [
+      "남성",
+      "여성"
+    ]
+  },
+  "data": [
+    {
+      "age": 20,
+      "gender": "남성",
+      "birthdate": "20060316",
+      "scraped_at": "2026-03-29T03:49:18.282021",
+      "page_url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+      "premium_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "// 페이지 이동\n    console.log(\"Move Page redirection !!!\");\n    console.log('CommonUtil.getAccessServer() :: PROD');\n    console.log('request.getServerNam",
+          "tagName": "SCRIPT"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                 ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n            \n              \n                \n                  소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "SECTION"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n              \n                \n                  \n                    \n                      \n                        소비자포털\n                    ",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                        보험금 청구 안내\n                        보험금 청구 방법\n                        구비서류 안내\n                        구비서류양식\n             ",
+          "tagName": "DIV"
+        }
+      ],
+      "plan_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형) > 온라인보험 | KB라이프 생명",
+          "tagName": "TITLE"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n       ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                  연금보험\n                  온라인보험\n                \n  ",
+          "tagName": "UL"
+        },
+        {
+          "text": "온라인보험\n            \n              \n                \n                  온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약",
+          "tagName": "LI"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지켜주는 교통안심보험 무배당KB 착한암보험 무배당",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEW",
+          "tagName": "A"
+        }
+      ],
+      "special_clauses": [
+        {
+          "index": 0,
+          "text": "전체동의",
+          "is_checked": false
+        },
+        {
+          "index": 1,
+          "text": "통신사 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 2,
+          "text": "개인정보 수집 및 이용 동의",
+          "is_checked": false
+        },
+        {
+          "index": 3,
+          "text": "고유식별정보 처리 동의",
+          "is_checked": false
+        },
+        {
+          "index": 4,
+          "text": "서비스 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 5,
+          "text": "개인정보 제3자 제공동의(알뜰폰)",
+          "is_checked": false
+        },
+        {
+          "index": 6,
+          "text": "뇌/심장뇌/심장, 혈관질환",
+          "is_checked": false
+        },
+        {
+          "index": 7,
+          "text": "암진단\n                                                                    \n                           ",
+          "is_checked": false
+        },
+        {
+          "index": 8,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 9,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 10,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 11,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 12,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "is_checked": false
+        },
+        {
+          "index": 13,
+          "text": "간병인사용입원(요양병원 제외, 1일이상 180일한도)(갱신형)\n                                                                 ",
+          "is_checked": false
+        },
+        {
+          "index": 14,
+          "text": "간병/입원간병일단, 입원",
+          "is_checked": false
+        }
+      ]
+    },
+    {
+      "age": 20,
+      "gender": "여성",
+      "birthdate": "20061001",
+      "scraped_at": "2026-03-29T03:49:48.272780",
+      "page_url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+      "premium_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "// 페이지 이동\n    console.log(\"Move Page redirection !!!\");\n    console.log('CommonUtil.getAccessServer() :: PROD');\n    console.log('request.getServerNam",
+          "tagName": "SCRIPT"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                 ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n            \n              \n                \n                  소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "SECTION"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n              \n                \n                  \n                    \n                      \n                        소비자포털\n                    ",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                        보험금 청구 안내\n                        보험금 청구 방법\n                        구비서류 안내\n                        구비서류양식\n             ",
+          "tagName": "DIV"
+        }
+      ],
+      "plan_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형) > 온라인보험 | KB라이프 생명",
+          "tagName": "TITLE"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n       ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                  연금보험\n                  온라인보험\n                \n  ",
+          "tagName": "UL"
+        },
+        {
+          "text": "온라인보험\n            \n              \n                \n                  온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약",
+          "tagName": "LI"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지켜주는 교통안심보험 무배당KB 착한암보험 무배당",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEW",
+          "tagName": "A"
+        }
+      ],
+      "special_clauses": [
+        {
+          "index": 0,
+          "text": "전체동의",
+          "is_checked": false
+        },
+        {
+          "index": 1,
+          "text": "통신사 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 2,
+          "text": "개인정보 수집 및 이용 동의",
+          "is_checked": false
+        },
+        {
+          "index": 3,
+          "text": "고유식별정보 처리 동의",
+          "is_checked": false
+        },
+        {
+          "index": 4,
+          "text": "서비스 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 5,
+          "text": "개인정보 제3자 제공동의(알뜰폰)",
+          "is_checked": false
+        },
+        {
+          "index": 6,
+          "text": "뇌/심장뇌/심장, 혈관질환",
+          "is_checked": false
+        },
+        {
+          "index": 7,
+          "text": "암진단\n                                                                    \n                           ",
+          "is_checked": false
+        },
+        {
+          "index": 8,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 9,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 10,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 11,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 12,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "is_checked": false
+        },
+        {
+          "index": 13,
+          "text": "간병인사용입원(요양병원 제외, 1일이상 180일한도)(갱신형)\n                                                                 ",
+          "is_checked": false
+        },
+        {
+          "index": 14,
+          "text": "간병/입원간병일단, 입원",
+          "is_checked": false
+        }
+      ]
+    },
+    {
+      "age": 21,
+      "gender": "남성",
+      "birthdate": "20050524",
+      "scraped_at": "2026-03-29T03:50:19.946887",
+      "page_url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+      "premium_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "// 페이지 이동\n    console.log(\"Move Page redirection !!!\");\n    console.log('CommonUtil.getAccessServer() :: PROD');\n    console.log('request.getServerNam",
+          "tagName": "SCRIPT"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                 ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n            \n              \n                \n                  소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "SECTION"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n              \n                \n                  \n                    \n                      \n                        소비자포털\n                    ",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                        보험금 청구 안내\n                        보험금 청구 방법\n                        구비서류 안내\n                        구비서류양식\n             ",
+          "tagName": "DIV"
+        }
+      ],
+      "plan_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형) > 온라인보험 | KB라이프 생명",
+          "tagName": "TITLE"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n       ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                  연금보험\n                  온라인보험\n                \n  ",
+          "tagName": "UL"
+        },
+        {
+          "text": "온라인보험\n            \n              \n                \n                  온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약",
+          "tagName": "LI"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지켜주는 교통안심보험 무배당KB 착한암보험 무배당",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEW",
+          "tagName": "A"
+        }
+      ],
+      "special_clauses": [
+        {
+          "index": 0,
+          "text": "전체동의",
+          "is_checked": false
+        },
+        {
+          "index": 1,
+          "text": "통신사 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 2,
+          "text": "개인정보 수집 및 이용 동의",
+          "is_checked": false
+        },
+        {
+          "index": 3,
+          "text": "고유식별정보 처리 동의",
+          "is_checked": false
+        },
+        {
+          "index": 4,
+          "text": "서비스 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 5,
+          "text": "개인정보 제3자 제공동의(알뜰폰)",
+          "is_checked": false
+        },
+        {
+          "index": 6,
+          "text": "뇌/심장뇌/심장, 혈관질환",
+          "is_checked": false
+        },
+        {
+          "index": 7,
+          "text": "암진단\n                                                                    \n                           ",
+          "is_checked": false
+        },
+        {
+          "index": 8,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 9,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 10,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 11,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 12,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "is_checked": false
+        },
+        {
+          "index": 13,
+          "text": "간병인사용입원(요양병원 제외, 1일이상 180일한도)(갱신형)\n                                                                 ",
+          "is_checked": false
+        },
+        {
+          "index": 14,
+          "text": "간병/입원간병일단, 입원",
+          "is_checked": false
+        }
+      ]
+    },
+    {
+      "age": 21,
+      "gender": "여성",
+      "birthdate": "20050406",
+      "scraped_at": "2026-03-29T03:50:46.905544",
+      "page_url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+      "premium_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "// 페이지 이동\n    console.log(\"Move Page redirection !!!\");\n    console.log('CommonUtil.getAccessServer() :: PROD');\n    console.log('request.getServerNam",
+          "tagName": "SCRIPT"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                 ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n            \n              \n                \n                  소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "SECTION"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n              \n                \n                  \n                    \n                      \n                        소비자포털\n                    ",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                        보험금 청구 안내\n                        보험금 청구 방법\n                        구비서류 안내\n                        구비서류양식\n             ",
+          "tagName": "DIV"
+        }
+      ],
+      "plan_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형) > 온라인보험 | KB라이프 생명",
+          "tagName": "TITLE"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n       ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                  연금보험\n                  온라인보험\n                \n  ",
+          "tagName": "UL"
+        },
+        {
+          "text": "온라인보험\n            \n              \n                \n                  온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약",
+          "tagName": "LI"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지켜주는 교통안심보험 무배당KB 착한암보험 무배당",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEW",
+          "tagName": "A"
+        }
+      ],
+      "special_clauses": [
+        {
+          "index": 0,
+          "text": "전체동의",
+          "is_checked": false
+        },
+        {
+          "index": 1,
+          "text": "통신사 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 2,
+          "text": "개인정보 수집 및 이용 동의",
+          "is_checked": false
+        },
+        {
+          "index": 3,
+          "text": "고유식별정보 처리 동의",
+          "is_checked": false
+        },
+        {
+          "index": 4,
+          "text": "서비스 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 5,
+          "text": "개인정보 제3자 제공동의(알뜰폰)",
+          "is_checked": false
+        },
+        {
+          "index": 6,
+          "text": "뇌/심장뇌/심장, 혈관질환",
+          "is_checked": false
+        },
+        {
+          "index": 7,
+          "text": "암진단\n                                                                    \n                           ",
+          "is_checked": false
+        },
+        {
+          "index": 8,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 9,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 10,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 11,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 12,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "is_checked": false
+        },
+        {
+          "index": 13,
+          "text": "간병인사용입원(요양병원 제외, 1일이상 180일한도)(갱신형)\n                                                                 ",
+          "is_checked": false
+        },
+        {
+          "index": 14,
+          "text": "간병/입원간병일단, 입원",
+          "is_checked": false
+        }
+      ]
+    },
+    {
+      "age": 22,
+      "gender": "남성",
+      "birthdate": "20040623",
+      "scraped_at": "2026-03-29T03:51:17.596706",
+      "page_url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+      "premium_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "// 페이지 이동\n    console.log(\"Move Page redirection !!!\");\n    console.log('CommonUtil.getAccessServer() :: PROD');\n    console.log('request.getServerNam",
+          "tagName": "SCRIPT"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                 ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n            \n              \n                \n                  소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "SECTION"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n              \n                \n                  \n                    \n                      \n                        소비자포털\n                    ",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                        보험금 청구 안내\n                        보험금 청구 방법\n                        구비서류 안내\n                        구비서류양식\n             ",
+          "tagName": "DIV"
+        }
+      ],
+      "plan_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형) > 온라인보험 | KB라이프 생명",
+          "tagName": "TITLE"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n       ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                  연금보험\n                  온라인보험\n                \n  ",
+          "tagName": "UL"
+        },
+        {
+          "text": "온라인보험\n            \n              \n                \n                  온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약",
+          "tagName": "LI"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지켜주는 교통안심보험 무배당KB 착한암보험 무배당",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEW",
+          "tagName": "A"
+        }
+      ],
+      "special_clauses": [
+        {
+          "index": 0,
+          "text": "전체동의",
+          "is_checked": false
+        },
+        {
+          "index": 1,
+          "text": "통신사 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 2,
+          "text": "개인정보 수집 및 이용 동의",
+          "is_checked": false
+        },
+        {
+          "index": 3,
+          "text": "고유식별정보 처리 동의",
+          "is_checked": false
+        },
+        {
+          "index": 4,
+          "text": "서비스 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 5,
+          "text": "개인정보 제3자 제공동의(알뜰폰)",
+          "is_checked": false
+        },
+        {
+          "index": 6,
+          "text": "뇌/심장뇌/심장, 혈관질환",
+          "is_checked": false
+        },
+        {
+          "index": 7,
+          "text": "암진단\n                                                                    \n                           ",
+          "is_checked": false
+        },
+        {
+          "index": 8,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 9,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 10,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 11,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 12,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "is_checked": false
+        },
+        {
+          "index": 13,
+          "text": "간병인사용입원(요양병원 제외, 1일이상 180일한도)(갱신형)\n                                                                 ",
+          "is_checked": false
+        },
+        {
+          "index": 14,
+          "text": "간병/입원간병일단, 입원",
+          "is_checked": false
+        }
+      ]
+    },
+    {
+      "age": 22,
+      "gender": "여성",
+      "birthdate": "20040522",
+      "scraped_at": "2026-03-29T03:51:48.476408",
+      "page_url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+      "premium_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "// 페이지 이동\n    console.log(\"Move Page redirection !!!\");\n    console.log('CommonUtil.getAccessServer() :: PROD');\n    console.log('request.getServerNam",
+          "tagName": "SCRIPT"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                 ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n            \n              \n                \n                  소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "SECTION"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n              \n                \n                  \n                    \n                      \n                        소비자포털\n                    ",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                        보험금 청구 안내\n                        보험금 청구 방법\n                        구비서류 안내\n                        구비서류양식\n             ",
+          "tagName": "DIV"
+        }
+      ],
+      "plan_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형) > 온라인보험 | KB라이프 생명",
+          "tagName": "TITLE"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n       ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                  연금보험\n                  온라인보험\n                \n  ",
+          "tagName": "UL"
+        },
+        {
+          "text": "온라인보험\n            \n              \n                \n                  온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약",
+          "tagName": "LI"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지켜주는 교통안심보험 무배당KB 착한암보험 무배당",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEW",
+          "tagName": "A"
+        }
+      ],
+      "special_clauses": [
+        {
+          "index": 0,
+          "text": "전체동의",
+          "is_checked": false
+        },
+        {
+          "index": 1,
+          "text": "통신사 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 2,
+          "text": "개인정보 수집 및 이용 동의",
+          "is_checked": false
+        },
+        {
+          "index": 3,
+          "text": "고유식별정보 처리 동의",
+          "is_checked": false
+        },
+        {
+          "index": 4,
+          "text": "서비스 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 5,
+          "text": "개인정보 제3자 제공동의(알뜰폰)",
+          "is_checked": false
+        },
+        {
+          "index": 6,
+          "text": "뇌/심장뇌/심장, 혈관질환",
+          "is_checked": false
+        },
+        {
+          "index": 7,
+          "text": "암진단\n                                                                    \n                           ",
+          "is_checked": false
+        },
+        {
+          "index": 8,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 9,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 10,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 11,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 12,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "is_checked": false
+        },
+        {
+          "index": 13,
+          "text": "간병인사용입원(요양병원 제외, 1일이상 180일한도)(갱신형)\n                                                                 ",
+          "is_checked": false
+        },
+        {
+          "index": 14,
+          "text": "간병/입원간병일단, 입원",
+          "is_checked": false
+        }
+      ]
+    },
+    {
+      "age": 23,
+      "gender": "남성",
+      "birthdate": "20030805",
+      "scraped_at": "2026-03-29T03:52:18.573155",
+      "page_url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+      "premium_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "// 페이지 이동\n    console.log(\"Move Page redirection !!!\");\n    console.log('CommonUtil.getAccessServer() :: PROD');\n    console.log('request.getServerNam",
+          "tagName": "SCRIPT"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                 ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n            \n              \n                \n                  소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "SECTION"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n              \n                \n                  \n                    \n                      \n                        소비자포털\n                    ",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                        보험금 청구 안내\n                        보험금 청구 방법\n                        구비서류 안내\n                        구비서류양식\n             ",
+          "tagName": "DIV"
+        }
+      ],
+      "plan_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형) > 온라인보험 | KB라이프 생명",
+          "tagName": "TITLE"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n       ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                  연금보험\n                  온라인보험\n                \n  ",
+          "tagName": "UL"
+        },
+        {
+          "text": "온라인보험\n            \n              \n                \n                  온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약",
+          "tagName": "LI"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지켜주는 교통안심보험 무배당KB 착한암보험 무배당",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEW",
+          "tagName": "A"
+        }
+      ],
+      "special_clauses": [
+        {
+          "index": 0,
+          "text": "전체동의",
+          "is_checked": false
+        },
+        {
+          "index": 1,
+          "text": "통신사 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 2,
+          "text": "개인정보 수집 및 이용 동의",
+          "is_checked": false
+        },
+        {
+          "index": 3,
+          "text": "고유식별정보 처리 동의",
+          "is_checked": false
+        },
+        {
+          "index": 4,
+          "text": "서비스 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 5,
+          "text": "개인정보 제3자 제공동의(알뜰폰)",
+          "is_checked": false
+        },
+        {
+          "index": 6,
+          "text": "뇌/심장뇌/심장, 혈관질환",
+          "is_checked": false
+        },
+        {
+          "index": 7,
+          "text": "암진단\n                                                                    \n                           ",
+          "is_checked": false
+        },
+        {
+          "index": 8,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 9,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 10,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 11,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 12,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "is_checked": false
+        },
+        {
+          "index": 13,
+          "text": "간병인사용입원(요양병원 제외, 1일이상 180일한도)(갱신형)\n                                                                 ",
+          "is_checked": false
+        },
+        {
+          "index": 14,
+          "text": "간병/입원간병일단, 입원",
+          "is_checked": false
+        }
+      ]
+    },
+    {
+      "age": 23,
+      "gender": "여성",
+      "birthdate": "20030522",
+      "scraped_at": "2026-03-29T03:52:47.562990",
+      "page_url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+      "premium_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "// 페이지 이동\n    console.log(\"Move Page redirection !!!\");\n    console.log('CommonUtil.getAccessServer() :: PROD');\n    console.log('request.getServerNam",
+          "tagName": "SCRIPT"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                 ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n            \n              \n                \n                  소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "SECTION"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n              \n                \n                  \n                    \n                      \n                        소비자포털\n                    ",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                        보험금 청구 안내\n                        보험금 청구 방법\n                        구비서류 안내\n                        구비서류양식\n             ",
+          "tagName": "DIV"
+        }
+      ],
+      "plan_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형) > 온라인보험 | KB라이프 생명",
+          "tagName": "TITLE"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n       ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                  연금보험\n                  온라인보험\n                \n  ",
+          "tagName": "UL"
+        },
+        {
+          "text": "온라인보험\n            \n              \n                \n                  온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약",
+          "tagName": "LI"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지켜주는 교통안심보험 무배당KB 착한암보험 무배당",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEW",
+          "tagName": "A"
+        }
+      ],
+      "special_clauses": [
+        {
+          "index": 0,
+          "text": "전체동의",
+          "is_checked": false
+        },
+        {
+          "index": 1,
+          "text": "통신사 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 2,
+          "text": "개인정보 수집 및 이용 동의",
+          "is_checked": false
+        },
+        {
+          "index": 3,
+          "text": "고유식별정보 처리 동의",
+          "is_checked": false
+        },
+        {
+          "index": 4,
+          "text": "서비스 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 5,
+          "text": "개인정보 제3자 제공동의(알뜰폰)",
+          "is_checked": false
+        },
+        {
+          "index": 6,
+          "text": "뇌/심장뇌/심장, 혈관질환",
+          "is_checked": false
+        },
+        {
+          "index": 7,
+          "text": "암진단\n                                                                    \n                           ",
+          "is_checked": false
+        },
+        {
+          "index": 8,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 9,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 10,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 11,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 12,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "is_checked": false
+        },
+        {
+          "index": 13,
+          "text": "간병인사용입원(요양병원 제외, 1일이상 180일한도)(갱신형)\n                                                                 ",
+          "is_checked": false
+        },
+        {
+          "index": 14,
+          "text": "간병/입원간병일단, 입원",
+          "is_checked": false
+        }
+      ]
+    },
+    {
+      "age": 24,
+      "gender": "남성",
+      "birthdate": "20020117",
+      "scraped_at": "2026-03-29T03:53:14.229909",
+      "page_url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+      "premium_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "// 페이지 이동\n    console.log(\"Move Page redirection !!!\");\n    console.log('CommonUtil.getAccessServer() :: PROD');\n    console.log('request.getServerNam",
+          "tagName": "SCRIPT"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                 ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n            \n              \n                \n                  소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "SECTION"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n              \n                \n                  \n                    \n                      \n                        소비자포털\n                    ",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                        보험금 청구 안내\n                        보험금 청구 방법\n                        구비서류 안내\n                        구비서류양식\n             ",
+          "tagName": "DIV"
+        }
+      ],
+      "plan_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형) > 온라인보험 | KB라이프 생명",
+          "tagName": "TITLE"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n       ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                  연금보험\n                  온라인보험\n                \n  ",
+          "tagName": "UL"
+        },
+        {
+          "text": "온라인보험\n            \n              \n                \n                  온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약",
+          "tagName": "LI"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지켜주는 교통안심보험 무배당KB 착한암보험 무배당",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEW",
+          "tagName": "A"
+        }
+      ],
+      "special_clauses": [
+        {
+          "index": 0,
+          "text": "전체동의",
+          "is_checked": false
+        },
+        {
+          "index": 1,
+          "text": "통신사 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 2,
+          "text": "개인정보 수집 및 이용 동의",
+          "is_checked": false
+        },
+        {
+          "index": 3,
+          "text": "고유식별정보 처리 동의",
+          "is_checked": false
+        },
+        {
+          "index": 4,
+          "text": "서비스 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 5,
+          "text": "개인정보 제3자 제공동의(알뜰폰)",
+          "is_checked": false
+        },
+        {
+          "index": 6,
+          "text": "뇌/심장뇌/심장, 혈관질환",
+          "is_checked": false
+        },
+        {
+          "index": 7,
+          "text": "암진단\n                                                                    \n                           ",
+          "is_checked": false
+        },
+        {
+          "index": 8,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 9,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 10,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 11,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 12,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "is_checked": false
+        },
+        {
+          "index": 13,
+          "text": "간병인사용입원(요양병원 제외, 1일이상 180일한도)(갱신형)\n                                                                 ",
+          "is_checked": false
+        },
+        {
+          "index": 14,
+          "text": "간병/입원간병일단, 입원",
+          "is_checked": false
+        }
+      ]
+    },
+    {
+      "age": 24,
+      "gender": "여성",
+      "birthdate": "20020515",
+      "scraped_at": "2026-03-29T03:53:48.118865",
+      "page_url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+      "premium_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "// 페이지 이동\n    console.log(\"Move Page redirection !!!\");\n    console.log('CommonUtil.getAccessServer() :: PROD');\n    console.log('request.getServerNam",
+          "tagName": "SCRIPT"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                 ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n            \n              \n                \n                  소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "SECTION"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n              \n                \n                  \n                    \n                      \n                        소비자포털\n                    ",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                        보험금 청구 안내\n                        보험금 청구 방법\n                        구비서류 안내\n                        구비서류양식\n             ",
+          "tagName": "DIV"
+        }
+      ],
+      "plan_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형) > 온라인보험 | KB라이프 생명",
+          "tagName": "TITLE"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n       ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                  연금보험\n                  온라인보험\n                \n  ",
+          "tagName": "UL"
+        },
+        {
+          "text": "온라인보험\n            \n              \n                \n                  온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약",
+          "tagName": "LI"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지켜주는 교통안심보험 무배당KB 착한암보험 무배당",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEW",
+          "tagName": "A"
+        }
+      ],
+      "special_clauses": [
+        {
+          "index": 0,
+          "text": "전체동의",
+          "is_checked": false
+        },
+        {
+          "index": 1,
+          "text": "통신사 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 2,
+          "text": "개인정보 수집 및 이용 동의",
+          "is_checked": false
+        },
+        {
+          "index": 3,
+          "text": "고유식별정보 처리 동의",
+          "is_checked": false
+        },
+        {
+          "index": 4,
+          "text": "서비스 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 5,
+          "text": "개인정보 제3자 제공동의(알뜰폰)",
+          "is_checked": false
+        },
+        {
+          "index": 6,
+          "text": "뇌/심장뇌/심장, 혈관질환",
+          "is_checked": false
+        },
+        {
+          "index": 7,
+          "text": "암진단\n                                                                    \n                           ",
+          "is_checked": false
+        },
+        {
+          "index": 8,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 9,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 10,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 11,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 12,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "is_checked": false
+        },
+        {
+          "index": 13,
+          "text": "간병인사용입원(요양병원 제외, 1일이상 180일한도)(갱신형)\n                                                                 ",
+          "is_checked": false
+        },
+        {
+          "index": 14,
+          "text": "간병/입원간병일단, 입원",
+          "is_checked": false
+        }
+      ]
+    },
+    {
+      "age": 25,
+      "gender": "남성",
+      "birthdate": "20010128",
+      "scraped_at": "2026-03-29T03:54:23.136002",
+      "page_url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+      "premium_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "// 페이지 이동\n    console.log(\"Move Page redirection !!!\");\n    console.log('CommonUtil.getAccessServer() :: PROD');\n    console.log('request.getServerNam",
+          "tagName": "SCRIPT"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                 ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n            \n              \n                \n                  소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "SECTION"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n              \n                \n                  \n                    \n                      \n                        소비자포털\n                    ",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                        보험금 청구 안내\n                        보험금 청구 방법\n                        구비서류 안내\n                        구비서류양식\n             ",
+          "tagName": "DIV"
+        }
+      ],
+      "plan_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형) > 온라인보험 | KB라이프 생명",
+          "tagName": "TITLE"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n       ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                  연금보험\n                  온라인보험\n                \n  ",
+          "tagName": "UL"
+        },
+        {
+          "text": "온라인보험\n            \n              \n                \n                  온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약",
+          "tagName": "LI"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지켜주는 교통안심보험 무배당KB 착한암보험 무배당",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEW",
+          "tagName": "A"
+        }
+      ],
+      "special_clauses": [
+        {
+          "index": 0,
+          "text": "전체동의",
+          "is_checked": false
+        },
+        {
+          "index": 1,
+          "text": "통신사 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 2,
+          "text": "개인정보 수집 및 이용 동의",
+          "is_checked": false
+        },
+        {
+          "index": 3,
+          "text": "고유식별정보 처리 동의",
+          "is_checked": false
+        },
+        {
+          "index": 4,
+          "text": "서비스 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 5,
+          "text": "개인정보 제3자 제공동의(알뜰폰)",
+          "is_checked": false
+        },
+        {
+          "index": 6,
+          "text": "뇌/심장뇌/심장, 혈관질환",
+          "is_checked": false
+        },
+        {
+          "index": 7,
+          "text": "암진단\n                                                                    \n                           ",
+          "is_checked": false
+        },
+        {
+          "index": 8,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 9,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 10,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 11,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 12,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "is_checked": false
+        },
+        {
+          "index": 13,
+          "text": "간병인사용입원(요양병원 제외, 1일이상 180일한도)(갱신형)\n                                                                 ",
+          "is_checked": false
+        },
+        {
+          "index": 14,
+          "text": "간병/입원간병일단, 입원",
+          "is_checked": false
+        }
+      ]
+    },
+    {
+      "age": 25,
+      "gender": "여성",
+      "birthdate": "20010615",
+      "scraped_at": "2026-03-29T03:54:52.540484",
+      "page_url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+      "premium_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "// 페이지 이동\n    console.log(\"Move Page redirection !!!\");\n    console.log('CommonUtil.getAccessServer() :: PROD');\n    console.log('request.getServerNam",
+          "tagName": "SCRIPT"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('h",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                 ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n            \n              \n                \n                  소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "소비자포털\n                  보험금 청구 안내\n                  보험금 청구 방법\n                  구비서류 안내\n                  구비서류양식\n                  필요서류안내\n            ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "SECTION"
+        },
+        {
+          "text": "전체메뉴\n        \n        \n          전체메뉴 닫기\n        \n      \n    \n    \n      \n        \n          \n              보험상품\n              \n                \n     ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "보험상품\n              \n                \n                  \n                    \n                      \n                        전체 상품\n                    ",
+          "tagName": "UL"
+        },
+        {
+          "text": "고객센터\n              \n                \n                  \n                    \n                      \n                        소비자포털\n                    ",
+          "tagName": "LI"
+        },
+        {
+          "text": "소비자포털\n                        보험금 청구 안내\n                        보험금 청구 방법\n                        구비서류 안내\n                        구비서류양식\n             ",
+          "tagName": "DIV"
+        }
+      ],
+      "plan_info": [
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HTML"
+        },
+        {
+          "text": "agent.initDevice();\n    var accessServer = \"PROD\";\n\n\n\n    \n\n\n\n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      ",
+          "tagName": "HEAD"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형) > 온라인보험 | KB라이프 생명",
+          "tagName": "TITLE"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "BODY"
+        },
+        {
+          "text": "/* CDN Domain을 활용한 폰트 설정 */\n\n@font-face {\n    font-weight: 300;\n    font-style: normal;\n    font-family: KBFGText2L;\n    src: local(KBFGTextL), url('https://contents.kblife.co.kr/res/font/eot/KBFGText",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "HEADER"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB라이프생명\n      \n      \n      \n        \n          \n            로그인\n          \n          \n        \n        인증센터\n        회사소개\n\n\n        소비자포털\n        공시실\n        \n        \n      \n      \n      \n        상단 ",
+          "tagName": "DIV"
+        },
+        {
+          "text": "상단 메뉴\n\n        \n        \n          \n          \n            보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n       ",
+          "tagName": "NAV"
+        },
+        {
+          "text": "보험상품\n            \n              \n                \n                  전체 상품\n                  건강/상해보험\n                \n                \n                  연금보험\n                  온라인보험\n                \n  ",
+          "tagName": "UL"
+        },
+        {
+          "text": "온라인보험\n            \n              \n                \n                  온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약",
+          "tagName": "LI"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 메인\n                \n                온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지",
+          "tagName": "DIV"
+        },
+        {
+          "text": "온라인보험 상품KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEWKB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)NEWKB 착한정기보험II 무배당KB 하이파이브평생연금보험 무배당KB 지켜주는 대중교통안심보험 무배당KB 지켜주는 교통안심보험 무배당KB 착한암보험 무배당",
+          "tagName": "DIV"
+        },
+        {
+          "text": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)NEW",
+          "tagName": "A"
+        }
+      ],
+      "special_clauses": [
+        {
+          "index": 0,
+          "text": "전체동의",
+          "is_checked": false
+        },
+        {
+          "index": 1,
+          "text": "통신사 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 2,
+          "text": "개인정보 수집 및 이용 동의",
+          "is_checked": false
+        },
+        {
+          "index": 3,
+          "text": "고유식별정보 처리 동의",
+          "is_checked": false
+        },
+        {
+          "index": 4,
+          "text": "서비스 이용약관 동의",
+          "is_checked": false
+        },
+        {
+          "index": 5,
+          "text": "개인정보 제3자 제공동의(알뜰폰)",
+          "is_checked": false
+        },
+        {
+          "index": 6,
+          "text": "뇌/심장뇌/심장, 혈관질환",
+          "is_checked": false
+        },
+        {
+          "index": 7,
+          "text": "암진단\n                                                                    \n                           ",
+          "is_checked": false
+        },
+        {
+          "index": 8,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 9,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 10,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 11,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "is_checked": false
+        },
+        {
+          "index": 12,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "is_checked": false
+        },
+        {
+          "index": 13,
+          "text": "간병인사용입원(요양병원 제외, 1일이상 180일한도)(갱신형)\n                                                                 ",
+          "is_checked": false
+        },
+        {
+          "index": 14,
+          "text": "간병/입원간병일단, 입원",
+          "is_checked": false
+        }
+      ]
+    }
+  ],
+  "failed_cases": []
+}

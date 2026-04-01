@@ -1,0 +1,1843 @@
+{
+  "basic_info": {
+    "age": 30,
+    "gender": "남성",
+    "birthdate": "19961026",
+    "scraped_at": "2026-03-30T12:22:05.144613"
+  },
+  "plans": {
+    "plan_1": {},
+    "plan_2": {},
+    "plan_3": {},
+    "plan_4": {}
+  },
+  "special_clauses": [
+    {
+      "index": 6,
+      "name": "뇌/심장뇌/심장, 혈관질환",
+      "description": null,
+      "full_text": "뇌/심장뇌/심장, 혈관질환",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 7,
+      "name": "암진단",
+      "description": "도움말",
+      "full_text": "암진단\n                                                                    \n                                                                        도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 8,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 9,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 10,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 11,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 12,
+      "name": "간암·폐암·췌장암진단",
+      "description": "도움말",
+      "full_text": "간암·폐암·췌장암진단\n                                                                    \n                                                                        도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 15,
+      "name": "암진단",
+      "description": "도움말",
+      "full_text": "암진단\n                                                                    \n                                                                        도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 16,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 17,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 18,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 19,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 20,
+      "name": "간암·폐암·췌장암진단",
+      "description": "도움말",
+      "full_text": "간암·폐암·췌장암진단\n                                                                    \n                                                                        도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 22,
+      "name": "암진단비, 표적항암, 항암약물치료",
+      "description": null,
+      "full_text": "암진단비, 표적항암, 항암약물치료",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 23,
+      "name": "암진단",
+      "description": "도움말",
+      "full_text": "암진단\n                                                                    \n                                                                        도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 24,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 25,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 26,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 27,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 28,
+      "name": "간암·폐암·췌장암진단",
+      "description": "도움말",
+      "full_text": "간암·폐암·췌장암진단\n                                                                    \n                                                                        도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 30,
+      "name": "수술/치료",
+      "description": null,
+      "full_text": "수술/치료",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 31,
+      "name": "암진단",
+      "description": "도움말",
+      "full_text": "암진단\n                                                                    \n                                                                        도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 32,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 33,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 34,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 35,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 36,
+      "name": "간암·폐암·췌장암진단",
+      "description": "도움말",
+      "full_text": "간암·폐암·췌장암진단\n                                                                    \n                                                                        도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 39,
+      "name": "암진단",
+      "description": "도움말",
+      "full_text": "암진단\n                                                                    \n                                                                        도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 40,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 41,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 42,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 43,
+      "name": "표적항암약물허가치료",
+      "description": "도움말",
+      "full_text": "표적항암약물허가치료\n                                                                                        \n                                                                                            도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    },
+    {
+      "index": 44,
+      "name": "간암·폐암·췌장암진단",
+      "description": "도움말",
+      "full_text": "간암·폐암·췌장암진단\n                                                                    \n                                                                        도움말",
+      "base_premium": "127,228원",
+      "with_clause_premium": null,
+      "premium_difference": null,
+      "tooltip": null,
+      "is_enabled": true,
+      "is_visible": false,
+      "is_tested": false,
+      "status": "activation_failed"
+    }
+  ],
+  "tooltips": {
+    "tooltip_0": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "통합검색 열기",
+      "element_tag": "BUTTON"
+    },
+    "tooltip_1": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "전체메뉴 열기",
+      "element_tag": "BUTTON"
+    },
+    "tooltip_2": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창 열림",
+      "element_tag": "A"
+    },
+    "tooltip_3": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "통합검색 열기",
+      "element_tag": "BUTTON"
+    },
+    "tooltip_4": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "전체메뉴 열기",
+      "element_tag": "BUTTON"
+    },
+    "tooltip_5": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창 열림",
+      "element_tag": "A"
+    },
+    "tooltip_6": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "통합검색 열기",
+      "element_tag": "BUTTON"
+    },
+    "tooltip_7": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "전체메뉴 열기",
+      "element_tag": "BUTTON"
+    },
+    "tooltip_8": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "통합검색 열기",
+      "element_tag": "BUTTON"
+    },
+    "tooltip_9": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "전체메뉴 열기",
+      "element_tag": "BUTTON"
+    },
+    "tooltip_10": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "통합검색 열기",
+      "element_tag": "BUTTON"
+    },
+    "tooltip_11": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "전체메뉴 열기",
+      "element_tag": "BUTTON"
+    },
+    "tooltip_12": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "전체메뉴 닫기",
+      "element_tag": "BUTTON"
+    },
+    "tooltip_13": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창 열림",
+      "element_tag": "A"
+    },
+    "tooltip_14": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "검색어를 입력해 주세요.",
+      "element_tag": "INPUT"
+    },
+    "tooltip_15": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "이름 입력",
+      "element_tag": "INPUT"
+    },
+    "tooltip_16": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "주민등록번호 앞자리",
+      "element_tag": "INPUT"
+    },
+    "tooltip_17": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "주민등록번호 뒷 첫자리",
+      "element_tag": "INPUT"
+    },
+    "tooltip_18": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "선택됨",
+      "element_tag": "A"
+    },
+    "tooltip_19": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "이용약관 목록 보기",
+      "element_tag": "A"
+    },
+    "tooltip_20": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "통신사 이용약관 동의 전문보기",
+      "element_tag": "A"
+    },
+    "tooltip_21": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "개인정보 수집 및 이용 동의 전문보기",
+      "element_tag": "A"
+    },
+    "tooltip_22": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "고유식별정보 처리 동의 전문보기",
+      "element_tag": "A"
+    },
+    "tooltip_23": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "서비스 이용약관 동의 전문보기",
+      "element_tag": "A"
+    },
+    "tooltip_24": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "서비스 이용약관 동의 전문보기",
+      "element_tag": "A"
+    },
+    "tooltip_25": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "휴대폰번호 첫자리 선택",
+      "element_tag": "A"
+    },
+    "tooltip_26": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "휴대폰번호 가운데 4자리",
+      "element_tag": "INPUT"
+    },
+    "tooltip_27": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "휴대폰번호 마지막 4자리",
+      "element_tag": "INPUT"
+    },
+    "tooltip_28": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "남은 시간",
+      "element_tag": "STRONG"
+    },
+    "tooltip_29": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "인증번호",
+      "element_tag": "INPUT"
+    },
+    "tooltip_30": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "인증번호요청",
+      "element_tag": "A"
+    },
+    "tooltip_31": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창 열림",
+      "element_tag": "A"
+    },
+    "tooltip_32": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창 열림",
+      "element_tag": "BUTTON"
+    },
+    "tooltip_33": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "생년월일(YYYYMMDD)",
+      "element_tag": "INPUT"
+    },
+    "tooltip_34": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "남자",
+      "element_tag": "INPUT"
+    },
+    "tooltip_35": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "여자",
+      "element_tag": "INPUT"
+    },
+    "tooltip_36": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "선택됨",
+      "element_tag": "A"
+    },
+    "tooltip_37": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "KB라이프 홈페이지로 이동(새창 열림)",
+      "element_tag": "A"
+    },
+    "tooltip_38": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창",
+      "element_tag": "A"
+    },
+    "tooltip_39": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창",
+      "element_tag": "A"
+    },
+    "tooltip_40": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "상품형태 선택",
+      "element_tag": "A"
+    },
+    "tooltip_41": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "납입주기 선택",
+      "element_tag": "A"
+    },
+    "tooltip_42": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "보험기간 선택",
+      "element_tag": "A"
+    },
+    "tooltip_43": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "납입기간 선택",
+      "element_tag": "A"
+    },
+    "tooltip_44": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액",
+      "element_tag": "INPUT"
+    },
+    "tooltip_45": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 선택",
+      "element_tag": "A"
+    },
+    "tooltip_46": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "연금지급방법 선택",
+      "element_tag": "A"
+    },
+    "tooltip_47": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "연금지급기간 선택",
+      "element_tag": "A"
+    },
+    "tooltip_48": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "연금개시나이 선택",
+      "element_tag": "A"
+    },
+    "tooltip_49": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "연금지급주기 선택",
+      "element_tag": "A"
+    },
+    "tooltip_50": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "체증형태 선택",
+      "element_tag": "A"
+    },
+    "tooltip_51": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "연금보증기간 선택",
+      "element_tag": "A"
+    },
+    "tooltip_52": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "노후소득개시나이 선택",
+      "element_tag": "A"
+    },
+    "tooltip_53": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "연금전환나이 선택",
+      "element_tag": "A"
+    },
+    "tooltip_54": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "연금개시나이 선택",
+      "element_tag": "A"
+    },
+    "tooltip_55": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "생년월일",
+      "element_tag": "INPUT"
+    },
+    "tooltip_56": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "생년월일",
+      "element_tag": "INPUT"
+    },
+    "tooltip_57": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "생년월일",
+      "element_tag": "INPUT"
+    },
+    "tooltip_58": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "생년월일",
+      "element_tag": "INPUT"
+    },
+    "tooltip_59": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "닫힘",
+      "element_tag": "BUTTON"
+    },
+    "tooltip_60": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_61": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_62": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_63": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_64": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_65": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_66": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_67": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_68": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_69": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_70": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_71": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_72": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_73": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_74": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_75": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_76": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_77": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_78": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_79": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_80": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_81": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_82": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_83": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_84": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_85": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_86": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_87": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_88": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_89": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_90": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_91": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_92": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_93": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_94": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_95": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_96": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_97": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_98": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_99": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_100": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_101": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_102": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_103": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_104": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_105": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_106": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_107": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_108": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_109": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_110": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_111": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_112": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_113": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_114": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_115": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_116": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_117": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_118": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_119": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_120": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_121": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_122": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_123": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_124": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_125": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_126": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_127": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_128": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_129": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_130": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_131": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_132": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_133": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_134": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_135": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_136": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_137": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_138": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_139": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_140": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_141": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_142": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_143": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_144": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_145": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_146": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_147": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_148": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "가입금액 : 300",
+      "element_tag": "INPUT"
+    },
+    "tooltip_149": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "check",
+      "element_tag": "INPUT"
+    },
+    "tooltip_150": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창 다운로드",
+      "element_tag": "A"
+    },
+    "tooltip_151": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "레이어 열림",
+      "element_tag": "A"
+    },
+    "tooltip_152": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "레이어 열림",
+      "element_tag": "A"
+    },
+    "tooltip_153": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창 열림",
+      "element_tag": "A"
+    },
+    "tooltip_154": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창 열림",
+      "element_tag": "A"
+    },
+    "tooltip_155": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "예",
+      "element_tag": "INPUT"
+    },
+    "tooltip_156": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "아니오",
+      "element_tag": "INPUT"
+    },
+    "tooltip_157": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "예",
+      "element_tag": "INPUT"
+    },
+    "tooltip_158": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "아니오",
+      "element_tag": "INPUT"
+    },
+    "tooltip_159": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "키",
+      "element_tag": "INPUT"
+    },
+    "tooltip_160": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "몸무게",
+      "element_tag": "INPUT"
+    },
+    "tooltip_161": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창 열림",
+      "element_tag": "A"
+    },
+    "tooltip_162": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "선택됨",
+      "element_tag": "A"
+    },
+    "tooltip_163": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "위험에 대비한 가족의 보장자산 마련",
+      "element_tag": "INPUT"
+    },
+    "tooltip_164": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "장기 저축을 통한 목돈 마련",
+      "element_tag": "INPUT"
+    },
+    "tooltip_165": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "노후를 위한 연금 마련",
+      "element_tag": "INPUT"
+    },
+    "tooltip_166": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "radio",
+      "element_tag": "INPUT"
+    },
+    "tooltip_167": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "radio",
+      "element_tag": "INPUT"
+    },
+    "tooltip_168": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "다운로드",
+      "element_tag": "A"
+    },
+    "tooltip_169": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "다운로드",
+      "element_tag": "A"
+    },
+    "tooltip_170": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "다운로드",
+      "element_tag": "A"
+    },
+    "tooltip_171": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "다운로드",
+      "element_tag": "A"
+    },
+    "tooltip_172": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "다운로드",
+      "element_tag": "A"
+    },
+    "tooltip_173": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창팝업 열림",
+      "element_tag": "A"
+    },
+    "tooltip_174": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "휴대폰 첫자리 선택",
+      "element_tag": "A"
+    },
+    "tooltip_175": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "휴대폰번호 가운데 4자리",
+      "element_tag": "INPUT"
+    },
+    "tooltip_176": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "휴대폰번호 마지막 4자리",
+      "element_tag": "INPUT"
+    },
+    "tooltip_177": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "이메일 아이디",
+      "element_tag": "INPUT"
+    },
+    "tooltip_178": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "이메일 도메인",
+      "element_tag": "INPUT"
+    },
+    "tooltip_179": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "이메일 도메인 선택",
+      "element_tag": "A"
+    },
+    "tooltip_180": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "레이어 열림",
+      "element_tag": "A"
+    },
+    "tooltip_181": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "[활성화됨]",
+      "element_tag": "A"
+    },
+    "tooltip_182": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창 열림",
+      "element_tag": "A"
+    },
+    "tooltip_183": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "추천인 정보 입력",
+      "element_tag": "INPUT"
+    },
+    "tooltip_184": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "추천인 정보 입력",
+      "element_tag": "INPUT"
+    },
+    "tooltip_185": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "추천인 정보 입력",
+      "element_tag": "INPUT"
+    },
+    "tooltip_186": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "휴대폰 첫자리 선택",
+      "element_tag": "A"
+    },
+    "tooltip_187": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "휴대폰 가운데 4자리 입력",
+      "element_tag": "INPUT"
+    },
+    "tooltip_188": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "휴대폰 마지막 4자리 입력",
+      "element_tag": "INPUT"
+    },
+    "tooltip_189": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "추천인 정보 입력",
+      "element_tag": "INPUT"
+    },
+    "tooltip_190": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "이메일 아이디",
+      "element_tag": "INPUT"
+    },
+    "tooltip_191": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "이메일 도메인",
+      "element_tag": "INPUT"
+    },
+    "tooltip_192": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "레이어 열림",
+      "element_tag": "A"
+    },
+    "tooltip_193": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "추천인 정보 입력",
+      "element_tag": "INPUT"
+    },
+    "tooltip_194": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "휴대폰 첫자리 선택",
+      "element_tag": "A"
+    },
+    "tooltip_195": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "휴대폰 가운데 4자리 입력",
+      "element_tag": "INPUT"
+    },
+    "tooltip_196": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "휴대폰 마지막 4자리 입력",
+      "element_tag": "INPUT"
+    },
+    "tooltip_197": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "추천인 정보 입력",
+      "element_tag": "INPUT"
+    },
+    "tooltip_198": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_199": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_200": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_201": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_202": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_203": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_204": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_205": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_206": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_207": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_208": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_209": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_210": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_211": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_212": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_213": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_214": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_215": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_216": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_217": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_218": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "금융상품 판매대리·중개업자 증서 보기(새창 열림)",
+      "element_tag": "A"
+    },
+    "tooltip_219": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림 - KB라이프생명 공식 유튜브 채널 바로가기",
+      "element_tag": "A"
+    },
+    "tooltip_220": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림 - KB라이프생명 공식 네이버 블로그 바로가기",
+      "element_tag": "A"
+    },
+    "tooltip_221": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림 - KB라이프생명 공식 인스타그램 바로가기",
+      "element_tag": "A"
+    },
+    "tooltip_222": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_223": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    },
+    "tooltip_224": {
+      "selector": "[title]",
+      "type": "title_attribute",
+      "content": "새창열림",
+      "element_tag": "A"
+    }
+  },
+  "premiums": {
+    "base_premium": "127,228원",
+    "plan_premiums": {},
+    "clause_premiums": {}
+  },
+  "validation": {
+    "plans_count": 4,
+    "clauses_count": 33,
+    "tooltips_count": 225,
+    "base_premium_exists": true,
+    "completion_score": 100,
+    "missing_items": []
+  }
+}

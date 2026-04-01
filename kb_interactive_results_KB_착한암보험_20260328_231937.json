@@ -1,0 +1,34 @@
+{
+  "interaction_results": {
+    "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+    "timestamp": "2026-03-28T23:19:25.628172",
+    "interactions": [
+      {
+        "age": 25,
+        "gender": "남성",
+        "changes": []
+      },
+      {
+        "age": 35,
+        "gender": "여성",
+        "changes": []
+      },
+      {
+        "age": 45,
+        "gender": "남성",
+        "changes": []
+      },
+      {
+        "age": 55,
+        "gender": "여성",
+        "changes": []
+      }
+    ]
+  },
+  "network_captures": [],
+  "summary": {
+    "total_interactions": 4,
+    "network_captures": 0,
+    "timestamp": "20260328_231937"
+  }
+}

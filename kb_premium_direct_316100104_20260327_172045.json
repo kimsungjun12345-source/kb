@@ -1,0 +1,955 @@
+{
+  "metadata": {
+    "product_code": "316100104",
+    "product_name": "KB 착한암보험 무배당",
+    "collected_at": "20260327_172045",
+    "total_records": 94,
+    "age_range": "19-65세",
+    "genders": [
+      "남성",
+      "여성"
+    ]
+  },
+  "premium_data": [
+    {
+      "age": 19,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "2007-07-15",
+      "insurance_age": 19,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'c8f78dbe-fbf6-4104-8454-222ac162e355', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:21.177862"
+    },
+    {
+      "age": 19,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "2007-07-15",
+      "insurance_age": 19,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'f4e458ca-4d35-4b65-b9f8-05c4b618881c', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:22.111671"
+    },
+    {
+      "age": 20,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "2006-07-15",
+      "insurance_age": 20,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'f2f1c086-ddb8-448c-9b2e-a2c301619c39', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:23.024697"
+    },
+    {
+      "age": 20,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "2006-07-15",
+      "insurance_age": 20,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '5b330df0-05a2-4b63-b7e2-3d72345798b2', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:23.906301"
+    },
+    {
+      "age": 21,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "2005-07-15",
+      "insurance_age": 21,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '13c7d997-1e2e-4386-979c-c578c964ada4', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:24.803013"
+    },
+    {
+      "age": 21,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "2005-07-15",
+      "insurance_age": 21,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '7ae9339e-2a7c-4702-ab90-6d51e882cd1d', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:25.698923"
+    },
+    {
+      "age": 22,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "2004-07-15",
+      "insurance_age": 22,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '7fb8b460-0759-4708-ba6e-e053e0396312', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:26.707107"
+    },
+    {
+      "age": 22,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "2004-07-15",
+      "insurance_age": 22,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'ad1d047c-b0e5-475c-87a9-5022818c0a67', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:27.601288"
+    },
+    {
+      "age": 23,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "2003-07-15",
+      "insurance_age": 23,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '435684eb-5b2f-42d7-8bee-6a1bbd3d0175', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:28.476667"
+    },
+    {
+      "age": 23,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "2003-07-15",
+      "insurance_age": 23,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'ddf07e1f-3bfb-4cc4-bd14-39e957a2bb3a', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:29.405156"
+    },
+    {
+      "age": 24,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "2002-07-15",
+      "insurance_age": 24,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '94c2b739-ffe5-4955-afdb-8135f368d9aa', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:30.292802"
+    },
+    {
+      "age": 24,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "2002-07-15",
+      "insurance_age": 24,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '52195f73-e20f-46bf-847c-125983eaf78b', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:31.164397"
+    },
+    {
+      "age": 25,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "2001-07-15",
+      "insurance_age": 25,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '0f903c11-d25b-4684-91da-745b8215b9a4', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:32.045640"
+    },
+    {
+      "age": 25,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "2001-07-15",
+      "insurance_age": 25,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'eb259d94-9cb3-41e4-9bb2-93828b18bf4d', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:32.933352"
+    },
+    {
+      "age": 26,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "2000-07-15",
+      "insurance_age": 26,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'fdc2a1ab-25b4-4258-804d-eed91c14add8', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:33.835105"
+    },
+    {
+      "age": 26,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "2000-07-15",
+      "insurance_age": 26,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '760c2744-55e3-419d-bc85-d90ff86a070e', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:34.721880"
+    },
+    {
+      "age": 27,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1999-07-15",
+      "insurance_age": 27,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '626f4b41-b1b6-4e9e-9b79-155732df2971', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:35.624643"
+    },
+    {
+      "age": 27,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1999-07-15",
+      "insurance_age": 27,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '4f800da0-0adb-470e-8096-d51a868b3908', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:36.511004"
+    },
+    {
+      "age": 28,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1998-07-15",
+      "insurance_age": 28,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '1d8fe0d3-a573-4959-aca9-f2b3f83c1c0f', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:37.388496"
+    },
+    {
+      "age": 28,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1998-07-15",
+      "insurance_age": 28,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '9d0fe026-636a-47b7-aee3-61e5c8139d66', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:38.285388"
+    },
+    {
+      "age": 29,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1997-07-15",
+      "insurance_age": 29,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'd549ef25-3baf-4ae6-be9e-1f78df639f26', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:39.201226"
+    },
+    {
+      "age": 29,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1997-07-15",
+      "insurance_age": 29,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'd5f96770-ea1f-4374-b507-aa547fcc9d94', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:40.084001"
+    },
+    {
+      "age": 30,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1996-07-15",
+      "insurance_age": 30,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'd2e8dfdf-fd6c-41c2-a3a2-5a88420e4675', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:40.969051"
+    },
+    {
+      "age": 30,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1996-07-15",
+      "insurance_age": 30,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '1472a28c-819a-4a39-baa5-e58f03acc527', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:41.865612"
+    },
+    {
+      "age": 31,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1995-07-15",
+      "insurance_age": 31,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '53619dc4-29e2-467e-b96c-e3fb4a746f37', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:42.744210"
+    },
+    {
+      "age": 31,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1995-07-15",
+      "insurance_age": 31,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '129efab0-b747-4436-ab2c-31f4d830c069', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:43.620938"
+    },
+    {
+      "age": 32,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1994-07-15",
+      "insurance_age": 32,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '2facb5da-6efd-42cc-817a-1b6a9dfb1333', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:44.499213"
+    },
+    {
+      "age": 32,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1994-07-15",
+      "insurance_age": 32,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '59dcdb4c-1fad-4e1d-b2fc-6303bb9ebf17', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:45.387928"
+    },
+    {
+      "age": 33,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1993-07-15",
+      "insurance_age": 33,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'ec4a3896-a79a-42f6-8074-4050ad412480', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:46.293035"
+    },
+    {
+      "age": 33,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1993-07-15",
+      "insurance_age": 33,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'a271b924-2a73-4d67-91de-33e2dcaa8870', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:47.172928"
+    },
+    {
+      "age": 34,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1992-07-15",
+      "insurance_age": 34,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'c3c20cf3-e946-4e34-912d-9f46b94f7199', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:48.085346"
+    },
+    {
+      "age": 34,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1992-07-15",
+      "insurance_age": 34,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'a307e30f-070f-4082-aefe-0583747b89ad', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:48.995446"
+    },
+    {
+      "age": 35,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1991-07-15",
+      "insurance_age": 35,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '752d02b8-a3cf-4d7b-a29c-77f1d07310df', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:49.923448"
+    },
+    {
+      "age": 35,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1991-07-15",
+      "insurance_age": 35,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '494eb96c-1a9b-4c14-b809-b30bfd1a27b8', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:50.834381"
+    },
+    {
+      "age": 36,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1990-07-15",
+      "insurance_age": 36,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '29e6621b-00dc-4950-b8b2-8d53b2e9eec8', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:51.717901"
+    },
+    {
+      "age": 36,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1990-07-15",
+      "insurance_age": 36,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'a261dc50-4a90-4943-a16b-a12af56201d5', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:52.654678"
+    },
+    {
+      "age": 37,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1989-07-15",
+      "insurance_age": 37,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '02a3ede0-d7b1-4864-b070-892465e71d40', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:53.555255"
+    },
+    {
+      "age": 37,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1989-07-15",
+      "insurance_age": 37,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '49d878a9-17a0-40bd-8559-c865e74670f3', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:54.449552"
+    },
+    {
+      "age": 38,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1988-07-15",
+      "insurance_age": 38,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '5d6ecbf6-4bc9-4f8c-99ae-7f871b3b46b2', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:55.363039"
+    },
+    {
+      "age": 38,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1988-07-15",
+      "insurance_age": 38,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'fcb5122d-c58c-48e3-945e-663a6ddf884c', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:56.247900"
+    },
+    {
+      "age": 39,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1987-07-15",
+      "insurance_age": 39,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '1b8010a1-502f-49c4-b800-2f77e2d8a169', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:57.152491"
+    },
+    {
+      "age": 39,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1987-07-15",
+      "insurance_age": 39,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '3cc6bf38-87a3-4f73-8785-8ff3b8e34e55', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:58.029509"
+    },
+    {
+      "age": 40,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1986-07-15",
+      "insurance_age": 40,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '1a1f4109-f3eb-4328-a3ce-a6c8fbbd2c74', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:58.972927"
+    },
+    {
+      "age": 40,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1986-07-15",
+      "insurance_age": 40,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '50aa92e5-f4d4-4d12-a7c2-91ad29566c2f', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:19:59.856614"
+    },
+    {
+      "age": 41,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1985-07-15",
+      "insurance_age": 41,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '0e5fe9e3-1d63-454e-b3f1-9a85c557adfd', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:00.791202"
+    },
+    {
+      "age": 41,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1985-07-15",
+      "insurance_age": 41,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'b8282db4-cb0f-4f91-9323-6aa5d3712e43', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:01.712745"
+    },
+    {
+      "age": 42,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1984-07-15",
+      "insurance_age": 42,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'e69e0812-7be7-4ecc-976c-f100e27367ea', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:02.660536"
+    },
+    {
+      "age": 42,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1984-07-15",
+      "insurance_age": 42,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '09dcfdff-1009-4110-9a21-713f017d1b30', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:03.550272"
+    },
+    {
+      "age": 43,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1983-07-15",
+      "insurance_age": 43,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '28699143-e2e0-454e-97f9-e4e3ab9b7589', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:04.472391"
+    },
+    {
+      "age": 43,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1983-07-15",
+      "insurance_age": 43,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '762ecc21-6522-462c-9714-f3b7d7d65a66', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:05.379834"
+    },
+    {
+      "age": 44,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1982-07-15",
+      "insurance_age": 44,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '7eff0fa8-71a0-4d8c-b4f7-e841e2062a90', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:06.310294"
+    },
+    {
+      "age": 44,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1982-07-15",
+      "insurance_age": 44,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'ca33ee74-b03a-45fb-9de6-e3ad8175b0f3', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:07.208142"
+    },
+    {
+      "age": 45,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1981-07-15",
+      "insurance_age": 45,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'eb495446-b3a4-4330-96fd-51a2aa5cce99', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:08.122663"
+    },
+    {
+      "age": 45,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1981-07-15",
+      "insurance_age": 45,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'fbecf745-e692-43c3-9536-ded0a58cc3ab', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:09.029591"
+    },
+    {
+      "age": 46,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1980-07-15",
+      "insurance_age": 46,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '0ccfa822-b2b4-4ff1-af03-6a1c1bc02c30', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:09.932800"
+    },
+    {
+      "age": 46,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1980-07-15",
+      "insurance_age": 46,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '46825839-3b8d-4c2c-8178-febd59854e28', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:10.806185"
+    },
+    {
+      "age": 47,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1979-07-15",
+      "insurance_age": 47,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '1295a4ec-f2fa-4ccb-9839-7ab0734d1c99', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:11.694610"
+    },
+    {
+      "age": 47,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1979-07-15",
+      "insurance_age": 47,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'ba8333c8-a458-4094-a7ed-6e2b43db657b', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:12.620109"
+    },
+    {
+      "age": 48,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1978-07-15",
+      "insurance_age": 48,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '2be0ab29-e1b8-4929-995f-8fedc2f6ff9e', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:13.497152"
+    },
+    {
+      "age": 48,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1978-07-15",
+      "insurance_age": 48,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'fcbf3887-fae9-437c-a3e2-ea503a41e3db', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:14.399195"
+    },
+    {
+      "age": 49,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1977-07-15",
+      "insurance_age": 49,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'b20b262f-764c-4785-9468-15dcdb06d3ca', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:15.348381"
+    },
+    {
+      "age": 49,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1977-07-15",
+      "insurance_age": 49,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '00531705-46c9-4639-8418-469885153a68', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:16.232559"
+    },
+    {
+      "age": 50,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1976-07-15",
+      "insurance_age": 50,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '6b6f7c13-acea-4f32-9758-1f5ccb14c7e7', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:17.155002"
+    },
+    {
+      "age": 50,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1976-07-15",
+      "insurance_age": 50,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'c9cedb88-fd25-4550-a59b-89ee030ecf4e', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '50000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:18.079490"
+    },
+    {
+      "age": 51,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1975-07-15",
+      "insurance_age": 51,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '7acc7db6-7a8e-4817-95d8-566ccc34308b', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:18.997455"
+    },
+    {
+      "age": 51,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1975-07-15",
+      "insurance_age": 51,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '7ae84a96-69ab-4873-9f59-0d221c7cc263', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:19.909967"
+    },
+    {
+      "age": 52,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1974-07-15",
+      "insurance_age": 52,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '7e943cab-c021-4438-ac6c-98545ae2e7a5', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:20.781456"
+    },
+    {
+      "age": 52,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1974-07-15",
+      "insurance_age": 52,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '9d030427-87b0-4860-ab8d-fcb0f998e755', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:21.665913"
+    },
+    {
+      "age": 53,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1973-07-15",
+      "insurance_age": 53,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '3860ad15-22eb-4b3f-9e42-473572b21ffd', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:22.539713"
+    },
+    {
+      "age": 53,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1973-07-15",
+      "insurance_age": 53,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '3f44f9f1-0405-4b8b-ad08-3eade71eeb8a', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:23.440613"
+    },
+    {
+      "age": 54,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1972-07-15",
+      "insurance_age": 54,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'fa8f6f63-ec99-4b96-bb11-87310fdd8f69', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:24.359714"
+    },
+    {
+      "age": 54,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1972-07-15",
+      "insurance_age": 54,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'e8cadf02-dc02-4893-a1cf-c430b9732682', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:25.242978"
+    },
+    {
+      "age": 55,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1971-07-15",
+      "insurance_age": 55,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'ed28d0a2-1623-408a-90d1-a4b5df03b156', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:26.142379"
+    },
+    {
+      "age": 55,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1971-07-15",
+      "insurance_age": 55,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '790b4739-ed7f-4d4f-a474-47df586f5d64', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:27.025314"
+    },
+    {
+      "age": 56,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1970-07-15",
+      "insurance_age": 56,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '02a47444-bf63-4d0e-aa7d-5de1bd5b276f', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:27.905769"
+    },
+    {
+      "age": 56,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1970-07-15",
+      "insurance_age": 56,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '776094f1-922b-4817-ae15-3b8407e43ad0', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:28.814319"
+    },
+    {
+      "age": 57,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1969-07-15",
+      "insurance_age": 57,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '58e928d7-d263-47dc-887c-fc641b5b1873', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:29.704539"
+    },
+    {
+      "age": 57,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1969-07-15",
+      "insurance_age": 57,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'a0dc0513-e2a6-4e00-a44b-1ae6be28e75a', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:30.579001"
+    },
+    {
+      "age": 58,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1968-07-15",
+      "insurance_age": 58,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '91fbf4f4-b1ba-4b24-ad16-be657a55d0fc', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:31.482022"
+    },
+    {
+      "age": 58,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1968-07-15",
+      "insurance_age": 58,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '30612f9f-185b-40ad-9bf8-70146e8b17c4', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:32.398754"
+    },
+    {
+      "age": 59,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1967-07-15",
+      "insurance_age": 59,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'a2dd854b-f854-4c98-b8fc-e90284f15fb1', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:33.306945"
+    },
+    {
+      "age": 59,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1967-07-15",
+      "insurance_age": 59,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'b5769107-b3ea-4a5d-91bd-8da24ad1ef7d', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:34.216722"
+    },
+    {
+      "age": 60,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1966-07-15",
+      "insurance_age": 60,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'c1630ddf-dc56-4c59-9997-f1e203de2724', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:35.147733"
+    },
+    {
+      "age": 60,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1966-07-15",
+      "insurance_age": 60,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'e6b2995e-08d9-4ffb-addc-fc8a97cc3dc8', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '20000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:36.062585"
+    },
+    {
+      "age": 61,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1965-07-15",
+      "insurance_age": 61,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '93032e03-9ea2-4db2-82be-693875ab7fc8', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '10000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:36.951696"
+    },
+    {
+      "age": 61,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1965-07-15",
+      "insurance_age": 61,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '5ecf1653-4345-45f5-bcbc-e725259cc925', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '10000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:37.860946"
+    },
+    {
+      "age": 62,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1964-07-15",
+      "insurance_age": 62,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'd0153a98-8ae9-40c0-b76c-7277feae7b95', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '10000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:38.714550"
+    },
+    {
+      "age": 62,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1964-07-15",
+      "insurance_age": 62,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '8e9ad2fd-7d24-4721-be86-e652f8ed0b22', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '10000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:39.583604"
+    },
+    {
+      "age": 63,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1963-07-15",
+      "insurance_age": 63,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'f2da1727-1c16-4763-b9fa-b8a1f678fb55', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '10000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:40.449965"
+    },
+    {
+      "age": 63,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1963-07-15",
+      "insurance_age": 63,
+      "premium_amount": null,
+      "api_response_sample": "{'id': 'b7d6c185-7e8b-4030-be09-859d312940be', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '10000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:41.374282"
+    },
+    {
+      "age": 64,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1962-07-15",
+      "insurance_age": 64,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '7f547b80-b42a-484d-93dc-d8a97946047c', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '10000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:42.270517"
+    },
+    {
+      "age": 64,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1962-07-15",
+      "insurance_age": 64,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '51b1b799-dd57-4d72-8f2e-ee69784129e6', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '10000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:43.238927"
+    },
+    {
+      "age": 65,
+      "gender": "남성",
+      "gender_code": 1,
+      "birth_date": "1961-07-15",
+      "insurance_age": 65,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '3fb63be0-2e24-4cf4-8571-dbcdda201f51', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '10000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:44.147514"
+    },
+    {
+      "age": 65,
+      "gender": "여성",
+      "gender_code": 2,
+      "birth_date": "1961-07-15",
+      "insurance_age": 65,
+      "premium_amount": null,
+      "api_response_sample": "{'id': '30999f09-6159-4757-8961-95c8004768cc', 'entityVersion': 0, 'products': [{'gsBhir': 'KB 착한암보험 무배당', 'gsSpSpcd1': '316100104', 'gsCdgiga': '10000000', 'gsCsgiga': '5000000', 'gsBhggidw': '10000000', 'gsGgcode': '21', 'prodCrncCd': '410', 'insrnCalMethdCd': '1', 'pdiProdTpCd': None, 'radProdTyCd': 'LIFE', 'joinPsblGndrCd': None, 'prodFaceamntUnitAmnt': '10000000', 'waiverRiderYn': '0', 'availableInsuranceTerms': [{'bkBhgg': '80', 'bkYsgb': '2', 'bkYsgbNm': '세', 'bkSpcd': '316100104'}, {'bkB",
+      "collected_at": "2026-03-27T17:20:45.060307"
+    }
+  ]
+}

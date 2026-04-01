@@ -1,0 +1,490 @@
+{
+  "basic_info": {
+    "age": 30,
+    "gender": "남성",
+    "birthdate": "19961115",
+    "scraped_at": "2026-03-31T01:40:31.903543"
+  },
+  "plans": {},
+  "comprehensive_plans": {},
+  "fixed_plans": {
+    "fixed_1": {
+      "plan_info": {
+        "index": 14,
+        "name": "quest5",
+        "value": "1",
+        "id": "",
+        "text": "베타추구형 : 해약환급률 90%이상",
+        "checked": true,
+        "visible": false
+      },
+      "current_premium": "127,228원",
+      "fixed_clauses": [
+        {
+          "index": 6,
+          "text": "뇌/심장뇌/심장, 혈관질환",
+          "enabled": true,
+          "visible": true,
+          "checked": false
+        },
+        {
+          "index": 7,
+          "text": "암진단\n                                                                    \n                           ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 8,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 9,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 10,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 11,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 12,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 15,
+          "text": "암진단\n                                                                    \n                           ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 16,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 17,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 18,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 19,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 20,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 22,
+          "text": "암진단비, 표적항암, 항암약물치료",
+          "enabled": true,
+          "visible": true,
+          "checked": false
+        },
+        {
+          "index": 23,
+          "text": "암진단\n                                                                    \n                           ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 24,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 25,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 26,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 27,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 28,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 31,
+          "text": "암진단\n                                                                    \n                           ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 32,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 33,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 34,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 35,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 36,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 39,
+          "text": "암진단\n                                                                    \n                           ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 40,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 41,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 42,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 43,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 44,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        }
+      ],
+      "clause_count": 32
+    },
+    "fixed_2": {
+      "plan_info": {
+        "index": 15,
+        "name": "quest5",
+        "value": "2",
+        "id": "",
+        "text": "알파추구형 : 해약환급률 80~100% 이상",
+        "checked": false,
+        "visible": false
+      },
+      "current_premium": "127,228원",
+      "fixed_clauses": [
+        {
+          "index": 6,
+          "text": "뇌/심장뇌/심장, 혈관질환",
+          "enabled": true,
+          "visible": true,
+          "checked": false
+        },
+        {
+          "index": 7,
+          "text": "암진단\n                                                                    \n                           ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 8,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 9,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 10,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 11,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 12,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 15,
+          "text": "암진단\n                                                                    \n                           ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 16,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 17,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 18,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 19,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 20,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 22,
+          "text": "암진단비, 표적항암, 항암약물치료",
+          "enabled": true,
+          "visible": true,
+          "checked": false
+        },
+        {
+          "index": 23,
+          "text": "암진단\n                                                                    \n                           ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 24,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 25,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 26,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 27,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 28,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 31,
+          "text": "암진단\n                                                                    \n                           ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 32,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 33,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 34,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 35,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 36,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 39,
+          "text": "암진단\n                                                                    \n                           ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 40,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 41,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 42,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 43,
+          "text": "표적항암약물허가치료\n                                                                                        \n",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        },
+        {
+          "index": 44,
+          "text": "간암·폐암·췌장암진단\n                                                                    \n                   ",
+          "enabled": true,
+          "visible": false,
+          "checked": false
+        }
+      ],
+      "clause_count": 32
+    }
+  }
+}

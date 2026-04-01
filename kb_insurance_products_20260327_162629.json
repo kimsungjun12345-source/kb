@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "scraped_at": "2026-03-27T16:26:29.592604",
+    "total_products": 5,
+    "scraper_version": "simple_1.0"
+  },
+  "products": [
+    {
+      "product_code": "ON_PD_KC_01",
+      "product_name": "KB 착한암보험 무배당",
+      "description": "",
+      "key_features": [],
+      "coverage_details": [],
+      "premium_info": {},
+      "terms_conditions": "",
+      "scraped_at": "2026-03-27T16:25:39.110238",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5"
+    },
+    {
+      "product_code": "ON_PD_YG_01",
+      "product_name": "KB 딱좋은 e-건강보험 무배당\n(갱신형)(일반심사형)\n(해약환급금 미지급형)",
+      "description": "",
+      "key_features": [],
+      "coverage_details": [],
+      "premium_info": {},
+      "terms_conditions": "",
+      "scraped_at": "2026-03-27T16:25:51.989137",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5"
+    },
+    {
+      "product_code": "ON_PD_YT_01",
+      "product_name": "KB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)",
+      "description": "",
+      "key_features": [],
+      "coverage_details": [],
+      "premium_info": {},
+      "terms_conditions": "",
+      "scraped_at": "2026-03-27T16:26:03.903295",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YT_01&productType=5"
+    },
+    {
+      "product_code": "ON_PD_SR_01",
+      "product_name": "KB 착한정기보험II 무배당",
+      "description": "",
+      "key_features": [],
+      "coverage_details": [],
+      "premium_info": {},
+      "terms_conditions": "",
+      "scraped_at": "2026-03-27T16:26:15.688773",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_SR_01&productType=5"
+    },
+    {
+      "product_code": "ON_PD_NP_01",
+      "product_name": "KB 하이파이브평생연금보험 무배당",
+      "description": "",
+      "key_features": [],
+      "coverage_details": [],
+      "premium_info": {},
+      "terms_conditions": "",
+      "scraped_at": "2026-03-27T16:26:27.412199",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_NP_01&productType=5"
+    }
+  ]
+}

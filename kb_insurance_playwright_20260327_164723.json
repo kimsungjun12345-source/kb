@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "scraped_at": "2026-03-27T16:47:23.310060",
+    "total_products": 5,
+    "scraper_version": "playwright_1.0",
+    "scraper_type": "Playwright"
+  },
+  "products": [
+    {
+      "product_code": "ON_PD_KC_01",
+      "product_name": "음성 검색",
+      "description": "",
+      "key_features": [],
+      "coverage_details": [],
+      "premium_info": {},
+      "terms_conditions": "",
+      "age_limits": {},
+      "scraped_at": "2026-03-27T16:34:23.739612",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_KC_01&productType=5",
+      "additional_info": {
+        "contact_info": "",
+        "features_count": 0,
+        "coverage_count": 0,
+        "page_title": "KB 착한암보험 무배당 > 온라인보험 | KB라이프 생명",
+        "meta_description": "무배당 착한암보험은 100세까지보험료가 오르지 않는 온라인 암보험 입니다."
+      }
+    },
+    {
+      "product_code": "ON_PD_YG_01",
+      "product_name": "음성 검색",
+      "description": "",
+      "key_features": [],
+      "coverage_details": [],
+      "premium_info": {},
+      "terms_conditions": "",
+      "age_limits": {
+        "min_age": 20,
+        "max_age": 64
+      },
+      "scraped_at": "2026-03-27T16:37:42.272625",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+      "additional_info": {
+        "contact_info": "",
+        "features_count": 0,
+        "coverage_count": 0,
+        "page_title": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형) > 온라인보험 | KB라이프 생명",
+        "meta_description": "null"
+      }
+    },
+    {
+      "product_code": "ON_PD_YT_01",
+      "product_name": "음성 검색",
+      "description": "",
+      "key_features": [],
+      "coverage_details": [],
+      "premium_info": {},
+      "terms_conditions": "",
+      "age_limits": {
+        "min_age": 20,
+        "max_age": 64
+      },
+      "scraped_at": "2026-03-27T16:41:00.826905",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YT_01&productType=5",
+      "additional_info": {
+        "contact_info": "",
+        "features_count": 0,
+        "coverage_count": 0,
+        "page_title": "KB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형) > 온라인보험 | KB라이프 생명",
+        "meta_description": "null"
+      }
+    },
+    {
+      "product_code": "ON_PD_SR_01",
+      "product_name": "음성 검색",
+      "description": "",
+      "key_features": [],
+      "coverage_details": [],
+      "premium_info": {},
+      "terms_conditions": "",
+      "age_limits": {},
+      "scraped_at": "2026-03-27T16:44:11.623572",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_SR_01&productType=5",
+      "additional_info": {
+        "contact_info": "",
+        "features_count": 0,
+        "coverage_count": 0,
+        "page_title": "KB 착한정기보험II 무배당 > 온라인보험 | KB라이프 생명",
+        "meta_description": "무배당 KB착한정기보험II은 합리적인 보험료로 실속있는 보장을 제공하며 건강할수록 보험료를 할인해주는 온라인보험 입니다."
+      }
+    },
+    {
+      "product_code": "ON_PD_NP_01",
+      "product_name": "음성 검색",
+      "description": "",
+      "key_features": [],
+      "coverage_details": [],
+      "premium_info": {},
+      "terms_conditions": "",
+      "age_limits": {},
+      "scraped_at": "2026-03-27T16:47:23.101655",
+      "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_NP_01&productType=5",
+      "additional_info": {
+        "contact_info": "",
+        "features_count": 0,
+        "coverage_count": 0,
+        "page_title": "KB 하이파이브평생연금보험 무배당 > 온라인보험 | KB라이프 생명",
+        "meta_description": "무배당 KB하이파이브평생연금보험은 5년이내 확정이율, 이후 공시이율을 적용하여 안정적인 노후를 준비하게 해주는 연금보험입니다."
+      }
+    }
+  ]
+}

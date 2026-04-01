@@ -1,0 +1,19 @@
+{
+  "url": "https://www.kblife.co.kr/insurance-product/productDetails.do?linkCd=ON_PD_YG_01&productType=5",
+  "results": [
+    {
+      "age": 64,
+      "gender": "F",
+      "plan": "plan_1",
+      "base_premium": "0033",
+      "riders": {
+        "": {
+          "activated": false,
+          "premium": null,
+          "tooltip": ""
+        }
+      },
+      "scraped_at": "2026-03-29T03:01:12.923916"
+    }
+  ]
+}

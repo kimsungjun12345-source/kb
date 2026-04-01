@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start install_extension.bat)",
+      "Bash(git init)",
+      "Bash(git remote add origin https://github.com/kimsungjun12345-source/kb.git)",
+      "Bash(git add .)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

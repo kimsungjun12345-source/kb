@@ -1,0 +1,5 @@
+age,gender,gender_korean,insurance_period,payment_period,insurance_period_value,payment_period_value,monthly_premium,collected_at
+19,male,남자,정기 10년,납입 10년,10,10,294,2026-03-28T23:40:42.341028
+19,male,남자,정기 15년,납입 15년,15,15,0,2026-03-28T23:41:01.886404
+19,male,남자,정기 20년,납입 15년,20,15,0,2026-03-28T23:41:13.628255
+19,male,남자,정기 20년,납입 20년,20,20,0,2026-03-28T23:41:25.242368
